@@ -143,6 +143,14 @@ Follow these steps:
 and the release action is automatically triggered by pushing the new tag.
 
 
+## Projects using F1DB
+
+- [F1+](https://formula1.plus/) – F1 Predictions, Live Standings & Race Intelligence
+
+Are you using F1DB? We'd love to feature your project!
+Please send us a message, create an [issue](https://github.com/f1db/f1db/issues/new), or open a pull request to add it here.
+
+
 ## License
 
 [![Creative Commons License][CC BY Icon Normal]][CC BY]
