@@ -33,6 +33,7 @@ class JsonTest {
                 Arguments.of("f1db-tyre-manufacturers.json", "f1db-tyre-manufacturers.schema.json"),
                 Arguments.of("f1db-entrants.json", "f1db-entrants.schema.json"),
                 Arguments.of("f1db-circuits.json", "f1db-circuits.schema.json"),
+                Arguments.of("f1db-circuits-layouts.json", "f1db-circuits-layouts.schema.json"),
                 Arguments.of("f1db-grands-prix.json", "f1db-grands-prix.schema.json"),
                 Arguments.of("f1db-seasons.json", "f1db-seasons.schema.json"),
                 Arguments.of("f1db-seasons-entrants.json", "f1db-seasons-entrants.schema.json"),

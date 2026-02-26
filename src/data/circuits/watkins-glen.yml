@@ -10,3 +10,13 @@ latitude: 42.336944
 longitude: -76.927222
 length: 5.435
 turns: 11
+layouts:
+  - id: watkins-glen-1 # 1961-1970
+    length: 3.780
+    turns: 8
+  - id: watkins-glen-2 # 1971-1974
+    length: 5.435
+    turns: 11
+  - id: watkins-glen-3 # 1975-1980
+    length: 5.435
+    turns: 11

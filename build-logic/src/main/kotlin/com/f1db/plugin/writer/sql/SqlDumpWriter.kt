@@ -5,6 +5,7 @@ import com.f1db.plugin.schema.RaceDataType
 import com.f1db.plugin.schema.single.F1db
 import com.f1db.plugin.writer.sql.Tables.*
 import com.f1db.plugin.writer.sql.mapper.chassisMapper
+import com.f1db.plugin.writer.sql.mapper.circuitLayoutMapper
 import com.f1db.plugin.writer.sql.mapper.circuitMapper
 import com.f1db.plugin.writer.sql.mapper.constructorChronologyMapper
 import com.f1db.plugin.writer.sql.mapper.constructorMapper
@@ -120,6 +121,7 @@ class SqlDumpWriter(
             writeInserts(ctx, out, TYRE_MANUFACTURER, tyreManufacturerMapper.unmap(db.splitted.tyreManufacturers), singleInserts)
             writeInserts(ctx, out, ENTRANT, entrantMapper.unmap(db.splitted.entrants), singleInserts)
             writeInserts(ctx, out, CIRCUIT, circuitMapper.unmap(db.splitted.circuits), singleInserts)
+            writeInserts(ctx, out, CIRCUIT_LAYOUT, circuitLayoutMapper.unmap(db.splitted.circuitLayouts), singleInserts)
             writeInserts(ctx, out, GRAND_PRIX, grandPrixMapper.unmap(db.splitted.grandsPrix), singleInserts)
             writeInserts(ctx, out, SEASON, seasonMapper.unmap(db.splitted.seasons), singleInserts)
             writeInserts(ctx, out, SEASON_ENTRANT, seasonEntrantMapper.unmap(db.splitted.seasonEntrants), singleInserts)

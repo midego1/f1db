@@ -5,6 +5,7 @@ grandPrixId: china
 officialName: 2013 Formula 1 UBS Chinese Grand Prix
 qualifyingFormat: KNOCKOUT
 circuitId: shanghai
+circuitLayoutId: shanghai-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.451

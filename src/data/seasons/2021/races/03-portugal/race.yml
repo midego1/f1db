@@ -5,6 +5,7 @@ grandPrixId: portugal
 officialName: Formula 1 Heineken Grande Prémio de Portugal 2021
 qualifyingFormat: KNOCKOUT
 circuitId: portimao
+circuitLayoutId: portimao-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.653

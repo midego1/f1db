@@ -5,6 +5,7 @@ grandPrixId: germany
 officialName: Grosser Mobil 1 Preis von Deutschland 2003
 qualifyingFormat: ONE_LAP
 circuitId: hockenheimring
+circuitLayoutId: hockenheimring-4
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.574

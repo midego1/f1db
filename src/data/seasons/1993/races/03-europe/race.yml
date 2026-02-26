@@ -5,6 +5,7 @@ grandPrixId: europe
 officialName: 1993 SEGA European Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: donington
+circuitLayoutId: donington-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.023

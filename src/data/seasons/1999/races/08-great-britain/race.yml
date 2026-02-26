@@ -5,6 +5,7 @@ grandPrixId: great-britain
 officialName: 1999 RAC British Grand Prix
 qualifyingFormat: ONE_SESSION
 circuitId: silverstone
+circuitLayoutId: silverstone-7
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.140

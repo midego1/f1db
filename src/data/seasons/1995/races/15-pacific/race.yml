@@ -5,6 +5,7 @@ grandPrixId: pacific
 officialName: 1995 Pacific Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: aida
+circuitLayoutId: aida-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 3.703

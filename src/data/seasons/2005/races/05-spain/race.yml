@@ -5,6 +5,7 @@ grandPrixId: spain
 officialName: Formula 1 Gran Premio Marlboro de España 2005
 qualifyingFormat: AGGREGATE
 circuitId: catalunya
+circuitLayoutId: catalunya-3
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.627

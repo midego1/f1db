@@ -5,6 +5,7 @@ grandPrixId: spain
 officialName: Gran Premio de España 1993
 qualifyingFormat: TWO_SESSION
 circuitId: catalunya
+circuitLayoutId: catalunya-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.747

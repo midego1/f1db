@@ -6,6 +6,7 @@ officialName: Formula 1 Lenovo United States Grand Prix 2023
 qualifyingFormat: KNOCKOUT
 sprintQualifyingFormat: SPRINT_SHOOTOUT
 circuitId: austin
+circuitLayoutId: austin-1
 circuitType: RACE
 direction: ANTI_CLOCKWISE
 courseLength: 5.513

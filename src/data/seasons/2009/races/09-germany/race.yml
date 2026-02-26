@@ -5,6 +5,7 @@ grandPrixId: germany
 officialName: Formula 1 Grosser Preis Santander von Deutschland 2009
 qualifyingFormat: KNOCKOUT
 circuitId: nurburgring
+circuitLayoutId: nurburgring-4
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.148

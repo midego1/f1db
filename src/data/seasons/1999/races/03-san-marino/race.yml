@@ -5,6 +5,7 @@ grandPrixId: san-marino
 officialName: Gran Premio Warsteiner di San Marino 1999
 qualifyingFormat: ONE_SESSION
 circuitId: imola
+circuitLayoutId: imola-2
 circuitType: RACE
 direction: ANTI_CLOCKWISE
 courseLength: 4.933

@@ -5,6 +5,7 @@ grandPrixId: great-britain
 officialName: 2005 Formula 1 Foster's British Grand Prix
 qualifyingFormat: ONE_LAP
 circuitId: silverstone
+circuitLayoutId: silverstone-7
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.141

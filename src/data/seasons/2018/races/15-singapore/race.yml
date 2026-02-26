@@ -5,6 +5,7 @@ grandPrixId: singapore
 officialName: Formula 1 2018 Singapore Airlines Singapore Grand Prix
 qualifyingFormat: KNOCKOUT
 circuitId: marina-bay
+circuitLayoutId: marina-bay-3
 circuitType: STREET
 direction: ANTI_CLOCKWISE
 courseLength: 5.063

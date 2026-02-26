@@ -5,6 +5,7 @@ grandPrixId: caesars-palace
 officialName: 1982 Caesars Palace Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: caesars-palace
+circuitLayoutId: caesars-palace-1
 circuitType: STREET
 direction: ANTI_CLOCKWISE
 courseLength: 3.650

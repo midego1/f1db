@@ -5,6 +5,7 @@ grandPrixId: france
 officialName: Grand Prix de France 1964
 qualifyingFormat: TWO_SESSION
 circuitId: rouen
+circuitLayoutId: rouen-2
 circuitType: ROAD
 direction: CLOCKWISE
 courseLength: 6.542

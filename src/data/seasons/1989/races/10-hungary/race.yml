@@ -5,6 +5,7 @@ grandPrixId: hungary
 officialName: Pop 84 Magyar Nagydíj 1989
 qualifyingFormat: TWO_SESSION
 circuitId: hungaroring
+circuitLayoutId: hungaroring-2
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 3.968

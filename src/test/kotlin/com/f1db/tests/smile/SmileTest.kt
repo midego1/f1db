@@ -38,6 +38,7 @@ class SmileTest {
                 Arguments.of("f1db-tyre-manufacturers.sml", "f1db-tyre-manufacturers.schema.json"),
                 Arguments.of("f1db-entrants.sml", "f1db-entrants.schema.json"),
                 Arguments.of("f1db-circuits.sml", "f1db-circuits.schema.json"),
+                Arguments.of("f1db-circuits-layouts.sml", "f1db-circuits-layouts.schema.json"),
                 Arguments.of("f1db-grands-prix.sml", "f1db-grands-prix.schema.json"),
                 Arguments.of("f1db-seasons.sml", "f1db-seasons.schema.json"),
                 Arguments.of("f1db-seasons-entrants.sml", "f1db-seasons-entrants.schema.json"),

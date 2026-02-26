@@ -5,6 +5,7 @@ grandPrixId: hungary
 officialName: Marlboro Magyar Nagydíj 1999
 qualifyingFormat: ONE_SESSION
 circuitId: hungaroring
+circuitLayoutId: hungaroring-2
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 3.973

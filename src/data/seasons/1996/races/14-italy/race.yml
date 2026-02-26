@@ -5,6 +5,7 @@ grandPrixId: italy
 officialName: Pioneer Gran Premio d'Italia 1996
 qualifyingFormat: ONE_SESSION
 circuitId: monza
+circuitLayoutId: monza-6
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.770

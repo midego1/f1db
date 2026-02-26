@@ -5,6 +5,7 @@ grandPrixId: great-britain
 officialName: 2015 Formula 1 British Grand Prix
 qualifyingFormat: KNOCKOUT
 circuitId: silverstone
+circuitLayoutId: silverstone-8
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.891

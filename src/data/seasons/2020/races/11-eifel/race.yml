@@ -5,6 +5,7 @@ grandPrixId: eifel
 officialName: Formula 1 Aramco Grosser Preis der Eifel 2020
 qualifyingFormat: KNOCKOUT
 circuitId: nurburgring
+circuitLayoutId: nurburgring-4
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.148

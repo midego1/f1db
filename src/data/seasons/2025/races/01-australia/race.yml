@@ -6,6 +6,7 @@ grandPrixId: australia
 officialName: Formula 1 Louis Vuitton Australian Grand Prix 2025
 qualifyingFormat: KNOCKOUT
 circuitId: melbourne
+circuitLayoutId: melbourne-2
 circuitType: STREET
 direction: CLOCKWISE
 courseLength: 5.278

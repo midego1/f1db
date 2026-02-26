@@ -5,6 +5,7 @@ grandPrixId: italy
 officialName: Formula 1 Gran Premio Heineken d'Italia 2020
 qualifyingFormat: KNOCKOUT
 circuitId: monza
+circuitLayoutId: monza-7
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.793

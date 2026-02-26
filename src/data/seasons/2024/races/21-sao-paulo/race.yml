@@ -7,6 +7,7 @@ officialName: Formula 1 Lenovo Grande Prêmio de São Paulo 2024
 qualifyingFormat: KNOCKOUT
 sprintQualifyingFormat: SPRINT_SHOOTOUT
 circuitId: interlagos
+circuitLayoutId: interlagos-2
 circuitType: RACE
 direction: ANTI_CLOCKWISE
 courseLength: 4.309

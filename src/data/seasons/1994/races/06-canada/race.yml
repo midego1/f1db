@@ -5,6 +5,7 @@ grandPrixId: canada
 officialName: Grand Prix Molson du Canada 1994
 qualifyingFormat: TWO_SESSION
 circuitId: montreal
+circuitLayoutId: montreal-4
 circuitType: STREET
 direction: CLOCKWISE
 courseLength: 4.450

@@ -17,6 +17,7 @@ fun getAllTables(): List<TableImpl<*>> {
         TYRE_MANUFACTURER,
         ENTRANT,
         CIRCUIT,
+        CIRCUIT_LAYOUT,
         GRAND_PRIX,
         SEASON,
         SEASON_ENTRANT,

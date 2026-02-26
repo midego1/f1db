@@ -12,3 +12,7 @@ latitude: 43.410278
 longitude: 39.968271
 length: 5.848
 turns: 18
+layouts:
+  - id: sochi-1
+    length: 5.848
+    turns: 18

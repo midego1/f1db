@@ -5,6 +5,7 @@ grandPrixId: japan
 officialName: Formula 1 Honda Japanese Grand Prix 2022
 qualifyingFormat: KNOCKOUT
 circuitId: suzuka
+circuitLayoutId: suzuka-2
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.807

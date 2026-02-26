@@ -5,6 +5,7 @@ grandPrixId: portugal
 officialName: Grande Prémio de Portugal 1989
 qualifyingFormat: TWO_SESSION
 circuitId: estoril
+circuitLayoutId: estoril-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.349

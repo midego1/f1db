@@ -10,3 +10,7 @@ latitude: 25.49
 longitude: 51.454167
 length: 5.419
 turns: 16
+layouts:
+  - id: lusail-1
+    length: 5.419
+    turns: 16

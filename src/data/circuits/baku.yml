@@ -10,3 +10,7 @@ latitude: 40.3725
 longitude: 49.853333
 length: 6.003
 turns: 20
+layouts:
+  - id: baku-1
+    length: 6.003
+    turns: 20

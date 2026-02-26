@@ -6,6 +6,7 @@ grandPrixId: las-vegas
 officialName: Formula 1 Heineken Las Vegas Grand Prix 2025
 qualifyingFormat: KNOCKOUT
 circuitId: las-vegas
+circuitLayoutId: las-vegas-1
 circuitType: STREET
 direction: ANTI_CLOCKWISE
 courseLength: 6.201

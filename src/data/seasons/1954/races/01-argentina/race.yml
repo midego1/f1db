@@ -5,6 +5,7 @@ grandPrixId: argentina
 officialName: Gran Premio de Argentina 1954
 qualifyingFormat: TWO_SESSION
 circuitId: buenos-aires
+circuitLayoutId: buenos-aires-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 3.912

@@ -5,6 +5,7 @@ grandPrixId: russia
 officialName: 2015 Formula 1 Russian Grand Prix
 qualifyingFormat: KNOCKOUT
 circuitId: sochi
+circuitLayoutId: sochi-1
 circuitType: ROAD
 direction: CLOCKWISE
 courseLength: 5.848

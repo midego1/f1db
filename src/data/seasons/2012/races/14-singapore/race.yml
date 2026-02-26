@@ -5,6 +5,7 @@ grandPrixId: singapore
 officialName: 2012 Formula 1 SingTel Singapore Grand Prix
 qualifyingFormat: KNOCKOUT
 circuitId: marina-bay
+circuitLayoutId: marina-bay-1
 circuitType: STREET
 direction: ANTI_CLOCKWISE
 courseLength: 5.073

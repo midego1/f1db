@@ -10,3 +10,7 @@ latitude: 36.175
 longitude: -115.136389
 length: 6.201
 turns: 17
+layouts:
+  - id: las-vegas-1
+    length: 6.201
+    turns: 17

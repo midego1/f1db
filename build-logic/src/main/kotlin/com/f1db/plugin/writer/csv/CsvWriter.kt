@@ -36,6 +36,7 @@ class CsvWriter(
         write("f1db-tyre-manufacturers.csv", db.splitted.tyreManufacturers)
         write("f1db-entrants.csv", db.splitted.entrants)
         write("f1db-circuits.csv", db.splitted.circuits)
+        write("f1db-circuits-layouts.csv", db.splitted.circuitLayouts)
         write("f1db-grands-prix.csv", db.splitted.grandsPrix)
         write("f1db-seasons.csv", db.splitted.seasons)
         write("f1db-seasons-entrants.csv", db.splitted.seasonEntrants)

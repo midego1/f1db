@@ -5,6 +5,7 @@ grandPrixId: great-britain
 officialName: 1990 Foster's British Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: silverstone
+circuitLayoutId: silverstone-3
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.778

@@ -5,6 +5,7 @@ grandPrixId: united-states
 officialName: 1990 Iceberg USA Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: phoenix
+circuitLayoutId: phoenix-1
 circuitType: STREET
 direction: ANTI_CLOCKWISE
 courseLength: 3.800

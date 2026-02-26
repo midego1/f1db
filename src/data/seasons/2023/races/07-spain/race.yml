@@ -5,6 +5,7 @@ grandPrixId: spain
 officialName: Formula 1 AWS Gran Premio de España 2023
 qualifyingFormat: KNOCKOUT
 circuitId: catalunya
+circuitLayoutId: catalunya-6
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.657

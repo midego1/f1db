@@ -5,6 +5,7 @@ grandPrixId: spain
 officialName: Gran Premio Marlboro de España 1998
 qualifyingFormat: ONE_SESSION
 circuitId: catalunya
+circuitLayoutId: catalunya-2
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.728

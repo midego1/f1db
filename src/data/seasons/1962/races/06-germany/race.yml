@@ -5,6 +5,7 @@ grandPrixId: germany
 officialName: Grosser Preis von Deutschland 1962
 qualifyingFormat: TWO_SESSION
 circuitId: nurburgring
+circuitLayoutId: nurburgring-1
 circuitType: ROAD
 direction: CLOCKWISE
 courseLength: 22.810

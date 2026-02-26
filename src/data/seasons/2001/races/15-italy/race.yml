@@ -5,6 +5,7 @@ grandPrixId: italy
 officialName: Gran Premio Campari d'Italia 2001
 qualifyingFormat: ONE_SESSION
 circuitId: monza
+circuitLayoutId: monza-7
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.793

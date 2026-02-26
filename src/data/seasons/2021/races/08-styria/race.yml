@@ -5,6 +5,7 @@ grandPrixId: styria
 officialName: Formula 1 BWT Grosser Preis der Steiermark 2021
 qualifyingFormat: KNOCKOUT
 circuitId: spielberg
+circuitLayoutId: spielberg-3
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.318

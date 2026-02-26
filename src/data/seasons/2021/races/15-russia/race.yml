@@ -5,6 +5,7 @@ grandPrixId: russia
 officialName: Formula 1 VTB Russian Grand Prix 2021
 qualifyingFormat: KNOCKOUT
 circuitId: sochi
+circuitLayoutId: sochi-1
 circuitType: ROAD
 direction: CLOCKWISE
 courseLength: 5.848

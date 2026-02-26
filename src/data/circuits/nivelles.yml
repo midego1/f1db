@@ -10,3 +10,7 @@ latitude: 50.621111
 longitude: 4.326944
 length: 3.724
 turns: 7
+layouts:
+  - id: nivelles-1
+    length: 3.724
+    turns: 7

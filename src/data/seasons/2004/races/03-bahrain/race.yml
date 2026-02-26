@@ -5,6 +5,7 @@ grandPrixId: bahrain
 officialName: 2004 Gulf Air Bahrain Grand Prix
 qualifyingFormat: ONE_LAP
 circuitId: bahrain
+circuitLayoutId: bahrain-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.412

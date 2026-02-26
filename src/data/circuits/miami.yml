@@ -10,3 +10,7 @@ latitude: 25.958056
 longitude: -80.238889
 length: 5.412
 turns: 19
+layouts:
+  - id: miami-1
+    length: 5.412
+    turns: 19

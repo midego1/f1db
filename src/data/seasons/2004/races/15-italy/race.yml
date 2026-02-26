@@ -5,6 +5,7 @@ grandPrixId: italy
 officialName: Formula 1 Gran Premio Vodafone d'Italia 2004
 qualifyingFormat: ONE_LAP
 circuitId: monza
+circuitLayoutId: monza-7
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.793

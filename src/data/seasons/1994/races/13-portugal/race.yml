@@ -5,6 +5,7 @@ grandPrixId: portugal
 officialName: Grande Prémio de Portugal 1994
 qualifyingFormat: TWO_SESSION
 circuitId: estoril
+circuitLayoutId: estoril-2
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.360

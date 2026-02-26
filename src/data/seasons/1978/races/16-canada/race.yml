@@ -5,6 +5,7 @@ grandPrixId: canada
 officialName: Grand Prix du Canada 1978
 qualifyingFormat: TWO_SESSION
 circuitId: montreal
+circuitLayoutId: montreal-1
 circuitType: STREET
 direction: CLOCKWISE
 courseLength: 4.500

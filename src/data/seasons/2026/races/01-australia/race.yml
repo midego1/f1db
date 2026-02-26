@@ -6,6 +6,7 @@ grandPrixId: australia
 officialName: Formula 1 Qatar Airways Australian Grand Prix 2026
 qualifyingFormat: KNOCKOUT
 circuitId: melbourne
+circuitLayoutId: melbourne-2
 circuitType: STREET
 direction: CLOCKWISE
 courseLength: 5.278

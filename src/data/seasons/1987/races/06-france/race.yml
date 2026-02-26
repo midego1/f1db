@@ -5,6 +5,7 @@ grandPrixId: france
 officialName: Grand Prix de France 1987
 qualifyingFormat: TWO_SESSION
 circuitId: paul-ricard
+circuitLayoutId: paul-ricard-2
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 3.813

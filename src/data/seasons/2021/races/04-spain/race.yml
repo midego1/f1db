@@ -5,6 +5,7 @@ grandPrixId: spain
 officialName: Formula 1 Aramco Gran Premio de España 2021
 qualifyingFormat: KNOCKOUT
 circuitId: catalunya
+circuitLayoutId: catalunya-5
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.675

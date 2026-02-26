@@ -5,6 +5,7 @@ grandPrixId: france
 officialName: Grand Prix de France 1970
 qualifyingFormat: TWO_SESSION
 circuitId: clermont-ferrand
+circuitLayoutId: clermont-ferrand-1
 circuitType: ROAD
 direction: CLOCKWISE
 courseLength: 8.055

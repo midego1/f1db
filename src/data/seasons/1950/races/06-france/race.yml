@@ -5,6 +5,7 @@ grandPrixId: france
 officialName: Grand Prix de France 1950
 qualifyingFormat: TWO_SESSION
 circuitId: reims
+circuitLayoutId: reims-1
 circuitType: ROAD
 direction: CLOCKWISE
 courseLength: 7.815

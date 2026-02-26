@@ -5,6 +5,7 @@ grandPrixId: south-africa
 officialName: National Panasonic South African Grand Prix 1984
 qualifyingFormat: TWO_SESSION
 circuitId: kyalami
+circuitLayoutId: kyalami-1
 circuitType: RACE
 direction: ANTI_CLOCKWISE
 courseLength: 4.104

@@ -5,6 +5,7 @@ grandPrixId: brazil
 officialName: Grande Prêmio do Brasil 1976
 qualifyingFormat: TWO_SESSION
 circuitId: interlagos
+circuitLayoutId: interlagos-1
 circuitType: RACE
 direction: ANTI_CLOCKWISE
 courseLength: 7.960

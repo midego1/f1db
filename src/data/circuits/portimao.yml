@@ -10,3 +10,7 @@ latitude: 37.221944
 longitude: -8.629444
 length: 4.653
 turns: 15
+layouts:
+  - id: portimao-1
+    length: 4.653
+    turns: 15

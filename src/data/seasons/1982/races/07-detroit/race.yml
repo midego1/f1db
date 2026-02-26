@@ -5,10 +5,11 @@ grandPrixId: detroit
 officialName: 1982 Detroit Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: detroit
+circuitLayoutId: detroit-1
 circuitType: STREET
 direction: ANTI_CLOCKWISE
 courseLength: 4.168
-turns: 22
+turns: 24
 laps: 62
 distance: 258.416
 scheduledLaps: 70

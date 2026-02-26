@@ -6,6 +6,7 @@ grandPrixId: barcelona-catalunya
 officialName: Formula 1 MSC Cruises Gran Premio de Barcelona-Catalunya 2026
 qualifyingFormat: KNOCKOUT
 circuitId: catalunya
+circuitLayoutId: catalunya-6
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.657

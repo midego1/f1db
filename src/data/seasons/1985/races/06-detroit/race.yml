@@ -5,6 +5,7 @@ grandPrixId: detroit
 officialName: 1985 Detroit Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: detroit
+circuitLayoutId: detroit-2
 circuitType: STREET
 direction: ANTI_CLOCKWISE
 courseLength: 4.023

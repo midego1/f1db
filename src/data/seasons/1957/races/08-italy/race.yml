@@ -5,6 +5,7 @@ grandPrixId: italy
 officialName: Gran Premio d'Italia 1957
 qualifyingFormat: TWO_SESSION
 circuitId: monza
+circuitLayoutId: monza-3
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.750

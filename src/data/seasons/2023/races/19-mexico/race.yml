@@ -5,6 +5,7 @@ grandPrixId: mexico
 officialName: Formula 1 Gran Premio de la Ciudad de México 2023
 qualifyingFormat: KNOCKOUT
 circuitId: mexico-city
+circuitLayoutId: mexico-city-3
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.304

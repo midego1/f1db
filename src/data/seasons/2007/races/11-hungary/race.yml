@@ -5,6 +5,7 @@ grandPrixId: hungary
 officialName: Formula 1 Magyar Nagydíj 2007
 qualifyingFormat: KNOCKOUT
 circuitId: hungaroring
+circuitLayoutId: hungaroring-3
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.381

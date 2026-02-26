@@ -1,6 +1,7 @@
 package com.f1db.plugin.schema
 
 import com.f1db.plugin.schema.mapper.chassisMapper
+import com.f1db.plugin.schema.mapper.circuitLayoutMapper
 import com.f1db.plugin.schema.mapper.circuitMapper
 import com.f1db.plugin.schema.mapper.constructorChronologyMapper
 import com.f1db.plugin.schema.mapper.constructorMapper
@@ -39,6 +40,7 @@ import com.f1db.plugin.schema.mapper.tyreManufacturerMapper
 import com.f1db.plugin.schema.single.F1db
 import com.f1db.plugin.schema.splitted.Chassis
 import com.f1db.plugin.schema.splitted.Circuit
+import com.f1db.plugin.schema.splitted.CircuitLayout
 import com.f1db.plugin.schema.splitted.Constructor
 import com.f1db.plugin.schema.splitted.ConstructorChronology
 import com.f1db.plugin.schema.splitted.Continent
@@ -114,6 +116,11 @@ class F1DbSplitted(private val db: F1db) {
 
     val circuits: List<Circuit>
         get() = circuitMapper.toSplittedCircuits(db.circuits)
+
+    val circuitLayouts: List<CircuitLayout>
+        get() = db.circuits
+                .filter { it.layouts != null }
+                .flatMap { circuit -> circuitLayoutMapper.toSplittedCircuitLayouts(circuit.layouts, circuit) }
 
     val grandsPrix: List<GrandPrix>
         get() = grandPrixMapper.toSplittedGrandsPrix(db.grandsPrix)

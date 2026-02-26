@@ -205,6 +205,13 @@ class F1DBReader(
 
         db.circuits.forEach { circuit ->
             circuit.totalRacesHeld = 0
+
+            // If a circuit has layouts but none is effective,
+            // mark the last layout as effective so that each circuit has at least one effective layout.
+
+            if (circuit.layouts.isNotEmpty() && circuit.layouts.none { it.effective }) {
+                circuit.layouts.last().effective = true
+            }
         }
 
         db.grandsPrix.forEach { grandPrix ->

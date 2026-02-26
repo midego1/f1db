@@ -7,6 +7,7 @@ officialName: Formula 1 Pirelli British Grand Prix 2026
 qualifyingFormat: KNOCKOUT
 sprintQualifyingFormat: SPRINT_SHOOTOUT
 circuitId: silverstone
+circuitLayoutId: silverstone-8
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.891

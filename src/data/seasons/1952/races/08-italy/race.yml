@@ -5,6 +5,7 @@ grandPrixId: italy
 officialName: Gran Premio d'Italia 1952
 qualifyingFormat: TWO_SESSION
 circuitId: monza
+circuitLayoutId: monza-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 6.300

@@ -6,6 +6,7 @@ grandPrixId: united-states
 officialName: Formula 1 MSC Cruises United States Grand Prix 2026
 qualifyingFormat: KNOCKOUT
 circuitId: austin
+circuitLayoutId: austin-1
 circuitType: RACE
 direction: ANTI_CLOCKWISE
 courseLength: 5.513

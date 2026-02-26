@@ -5,6 +5,7 @@ grandPrixId: spain
 officialName: Gran Premio de España 1981
 qualifyingFormat: TWO_SESSION
 circuitId: jarama
+circuitLayoutId: jarama-2
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 3.312

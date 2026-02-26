@@ -5,6 +5,7 @@ grandPrixId: france
 officialName: Grand Prix de France 1967
 qualifyingFormat: TWO_SESSION
 circuitId: bugatti
+circuitLayoutId: bugatti-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.422

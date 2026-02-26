@@ -5,6 +5,7 @@ grandPrixId: sweden
 officialName: Hitachi Sveriges Grand Prix 1973
 qualifyingFormat: TWO_SESSION
 circuitId: anderstorp
+circuitLayoutId: anderstorp-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.018

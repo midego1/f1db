@@ -6,6 +6,7 @@ grandPrixId: saudi-arabia
 officialName: Formula 1 stc Saudi Arabian Grand Prix 2026
 qualifyingFormat: KNOCKOUT
 circuitId: jeddah
+circuitLayoutId: jeddah-1
 circuitType: STREET
 direction: ANTI_CLOCKWISE
 courseLength: 6.174

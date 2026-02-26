@@ -5,6 +5,7 @@ grandPrixId: europe
 officialName: 2006 Formula 1 Grand Prix of Europe
 qualifyingFormat: KNOCKOUT
 circuitId: nurburgring
+circuitLayoutId: nurburgring-4
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.148

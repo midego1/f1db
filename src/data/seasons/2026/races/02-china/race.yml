@@ -7,6 +7,7 @@ officialName: Formula 1 Heineken Chinese Grand Prix 2026
 qualifyingFormat: KNOCKOUT
 sprintQualifyingFormat: SPRINT_SHOOTOUT
 circuitId: shanghai
+circuitLayoutId: shanghai-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.451

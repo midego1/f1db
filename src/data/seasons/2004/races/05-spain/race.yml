@@ -5,6 +5,7 @@ grandPrixId: spain
 officialName: Formula 1 Gran Premio Marlboro de España 2004
 qualifyingFormat: ONE_LAP
 circuitId: catalunya
+circuitLayoutId: catalunya-3
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.627

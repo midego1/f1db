@@ -5,6 +5,7 @@ grandPrixId: canada
 officialName: Grand Prix Air Canada 2001
 qualifyingFormat: ONE_SESSION
 circuitId: montreal
+circuitLayoutId: montreal-5
 circuitType: STREET
 direction: CLOCKWISE
 courseLength: 4.421

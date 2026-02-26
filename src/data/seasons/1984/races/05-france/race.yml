@@ -5,6 +5,7 @@ grandPrixId: france
 officialName: Grand Prix de France 1984
 qualifyingFormat: TWO_SESSION
 circuitId: dijon
+circuitLayoutId: dijon-2
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 3.801

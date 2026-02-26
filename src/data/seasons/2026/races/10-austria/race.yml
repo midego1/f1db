@@ -6,6 +6,7 @@ grandPrixId: austria
 officialName: Formula 1 Lenovo Austrian Grand Prix 2026
 qualifyingFormat: KNOCKOUT
 circuitId: spielberg
+circuitLayoutId: spielberg-3
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.326

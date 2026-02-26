@@ -5,6 +5,7 @@ grandPrixId: canada
 officialName: Grand Prix Labatt du Canada 1983
 qualifyingFormat: TWO_SESSION
 circuitId: montreal
+circuitLayoutId: montreal-2
 circuitType: STREET
 direction: CLOCKWISE
 courseLength: 4.410
