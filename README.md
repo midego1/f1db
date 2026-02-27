@@ -108,7 +108,7 @@ Starting from `v2026.0.1` (schema `v6.4.0`) circuit layouts have been introduced
 
 Matching SVG assets for all circuit layouts are available in [`src/assets/circuits`](https://github.com/f1db/f1db/tree/main/src/assets/circuits).
 
-Because these SVG files rarely change, they are not bundled with the standard release artifacts.
+Because these SVG files rarely change, they are not bundled with the standard release artifacts.\
 Instead, they can be downloaded directly from the repository.
 
 Each circuit layout is provided in four styles: black, black-outline, white, and white-outline.
