@@ -120,14 +120,14 @@ Each circuit layout is provided in four styles: black, black-outline, white, and
           alt="black"
           width="200"
           style="border: 1px solid #333; padding: 20px; background-color: #fff;" />
-      <div><sub>white</sub></div>
+      <div><sub>black</sub></div>
     </div>
     <div style="display: inline-block; margin: 10px; text-align: center;">
       <img src="https://raw.githubusercontent.com/f1db/f1db/refs/heads/main/src/assets/circuits/black-outline/silverstone-8.svg"
           alt="black-outline"
           width="200"
           style="border: 1px solid #333; padding: 20px; background-color: #fff;" />
-      <div><sub>white</sub></div>
+      <div><sub>black-outline</sub></div>
     </div>
   </div>
   <div>  
