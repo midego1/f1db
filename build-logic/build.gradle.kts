@@ -3,10 +3,10 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
     `java-gradle-plugin`
-    kotlin("jvm") version "2.3.0"
-    kotlin("kapt") version "2.3.0"
-    id("org.jooq.jooq-codegen-gradle") version "3.20.10"
-    id("org.jsonschema2pojo") version "1.2.2"
+    kotlin("jvm") version "2.3.10"
+    kotlin("kapt") version "2.3.10"
+    id("org.jooq.jooq-codegen-gradle") version "3.20.11"
+    id("org.jsonschema2pojo") version "1.3.3"
 }
 
 group = "com.f1db"
@@ -21,11 +21,11 @@ gradlePlugin {
     }
 }
 
-val jacksonVersion by extra("2.20.1")
-val jooqVersion by extra("3.20.10")
+val jacksonVersion by extra("2.21.1")
+val jooqVersion by extra("3.20.11")
 val mapstructVersion by extra("1.6.3")
 val slf4jVersion by extra("2.0.17")
-val sqliteJdbcVersion by extra("3.51.1.0")
+val sqliteJdbcVersion by extra("3.51.2.0")
 
 java {
     toolchain {
