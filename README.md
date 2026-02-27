@@ -14,7 +14,7 @@ Whether you are building a custom website, mobile application or just using F1DB
 - All constructors (including chassis)
 - All engine manufacturers (including engines)
 - All tyre manufacturers
-- All circuits and location data
+- All circuits (including layouts and SVG assets)
 - All seasons from 1950 to present; including:
   - entrants
   - standings
@@ -40,6 +40,15 @@ Release artifacts are available in the following formats:
 - SQL (MySQL, PostgreSQL or SQLite .sql dump files to create and populate a custom database)
 - SQL with single inserts (much smaller .sql dump files with single insert per table; better performance but not supported by all platforms)
 - SQLite database
+
+
+## Notable changes in `v2026.0.1`
+
+- Added new `CircuitLayout` object.
+- Added `layouts` property to `Circuit` object.
+- Added `circuitLayoutId` property to `Race` object.
+
+To accommodate this change the JSON Schema is bumped to version `v6.4.0`.
 
 
 ## F1DB JSON Schema
