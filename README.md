@@ -111,7 +111,7 @@ Matching SVG assets for all circuit layouts are available in [`src/assets/circui
 Because these SVG files rarely change, they are not bundled with the standard release artifacts.
 Instead, they can be downloaded directly from the repository.
 
-Each circuit layout is provided in four styles: black, black-outline, white, and white-outline.\
+Each circuit layout is provided in four styles: black, black-outline, white, and white-outline.
 
 <div>
   <img src="https://raw.githubusercontent.com/f1db/f1db/refs/heads/main/src/assets/circuits/black/silverstone-8.svg"
