@@ -5,6 +5,7 @@ grandPrixId: south-africa
 officialName: Panasonic South African Grand Prix 1993
 qualifyingFormat: TWO_SESSION
 circuitId: kyalami
+circuitLayoutId: kyalami-2
 circuitType: RACE
 direction: ANTI_CLOCKWISE
 courseLength: 4.261

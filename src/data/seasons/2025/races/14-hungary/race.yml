@@ -6,6 +6,7 @@ grandPrixId: hungary
 officialName: Formula 1 Lenovo Hungarian Grand Prix 2025
 qualifyingFormat: KNOCKOUT
 circuitId: hungaroring
+circuitLayoutId: hungaroring-3
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.381

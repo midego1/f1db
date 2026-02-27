@@ -5,6 +5,7 @@ grandPrixId: france
 officialName: Grand Prix de France 1952
 qualifyingFormat: TWO_SESSION
 circuitId: rouen
+circuitLayoutId: rouen-1
 circuitType: ROAD
 direction: CLOCKWISE
 courseLength: 5.100

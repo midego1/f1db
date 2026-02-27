@@ -11,3 +11,7 @@ latitude: -22.975556
 longitude: -43.395
 length: 5.031
 turns: 11
+layouts:
+  - id: jacarepagua-1
+    length: 5.031
+    turns: 11

@@ -5,6 +5,7 @@ grandPrixId: austria
 officialName: Grosser Preis von Österreich 1964
 qualifyingFormat: TWO_SESSION
 circuitId: zeltweg
+circuitLayoutId: zeltweg-1
 circuitType: ROAD
 direction: CLOCKWISE
 courseLength: 3.186

@@ -5,6 +5,7 @@ grandPrixId: tuscany
 officialName: Formula 1 Gran Premio Della Toscana Ferrari 1000 2020
 qualifyingFormat: KNOCKOUT
 circuitId: mugello
+circuitLayoutId: mugello-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.245

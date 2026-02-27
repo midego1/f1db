@@ -8,5 +8,9 @@ placeName: Barcelona
 countryId: spain
 latitude: 41.366389
 longitude: 2.151667
-length: 3.790
+length: 3.791
 turns: 12
+layouts:
+  - id: montjuic-1
+    length: 3.791
+    turns: 12

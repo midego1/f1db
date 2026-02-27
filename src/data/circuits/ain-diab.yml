@@ -10,3 +10,7 @@ latitude: 33.578611
 longitude: -7.6875
 length: 7.618
 turns: 18
+layouts:
+  - id: ain-diab-1
+    length: 7.618
+    turns: 18

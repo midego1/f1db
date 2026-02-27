@@ -5,6 +5,7 @@ grandPrixId: spain
 officialName: Formula 1 Gran Premio de España Telefónica 2008
 qualifyingFormat: KNOCKOUT
 circuitId: catalunya
+circuitLayoutId: catalunya-4
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.655

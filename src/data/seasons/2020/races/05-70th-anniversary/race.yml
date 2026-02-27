@@ -5,6 +5,7 @@ grandPrixId: 70th-anniversary
 officialName: Emirates Formula 1 70th Anniversary Grand Prix 2020
 qualifyingFormat: KNOCKOUT
 circuitId: silverstone
+circuitLayoutId: silverstone-8
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.891

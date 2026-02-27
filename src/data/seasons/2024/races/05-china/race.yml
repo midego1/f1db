@@ -7,6 +7,7 @@ officialName: Formula 1 Lenovo Chinese Grand Prix 2024
 qualifyingFormat: KNOCKOUT
 sprintQualifyingFormat: SPRINT_SHOOTOUT
 circuitId: shanghai
+circuitLayoutId: shanghai-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.451

@@ -5,6 +5,7 @@ grandPrixId: belgium
 officialName: 2005 Formula 1 Belgian Grand Prix
 qualifyingFormat: ONE_LAP
 circuitId: spa-francorchamps
+circuitLayoutId: spa-francorchamps-3
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 6.976

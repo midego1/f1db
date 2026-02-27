@@ -5,6 +5,7 @@ grandPrixId: japan
 officialName: 1976 Japanese Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: fuji
+circuitLayoutId: fuji-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.359

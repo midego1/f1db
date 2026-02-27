@@ -10,3 +10,7 @@ latitude: 52.480556
 longitude: 13.251389
 length: 8.300
 turns: 4
+layouts:
+  - id: avus-1
+    length: 8.300
+    turns: 4

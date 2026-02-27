@@ -5,6 +5,7 @@ grandPrixId: australia
 officialName: 2014 Formula 1 Rolex Australian Grand Prix
 qualifyingFormat: KNOCKOUT
 circuitId: melbourne
+circuitLayoutId: melbourne-1
 circuitType: STREET
 direction: CLOCKWISE
 courseLength: 5.303

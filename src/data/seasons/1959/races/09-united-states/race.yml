@@ -5,6 +5,7 @@ grandPrixId: united-states
 officialName: 1959 United States Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: sebring
+circuitLayoutId: sebring-1
 circuitType: ROAD
 direction: CLOCKWISE
 courseLength: 8.360

@@ -5,6 +5,7 @@ grandPrixId: netherlands
 officialName: Formula 1 Heineken Dutch Grand Prix 2022
 qualifyingFormat: KNOCKOUT
 circuitId: zandvoort
+circuitLayoutId: zandvoort-5
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.259

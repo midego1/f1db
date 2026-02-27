@@ -5,6 +5,7 @@ grandPrixId: great-britain
 officialName: 1965 RAC British Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: silverstone
+circuitLayoutId: silverstone-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.711

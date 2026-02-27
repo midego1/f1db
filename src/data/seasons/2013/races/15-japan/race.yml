@@ -5,6 +5,7 @@ grandPrixId: japan
 officialName: 2013 Formula 1 Japanese Grand Prix
 qualifyingFormat: KNOCKOUT
 circuitId: suzuka
+circuitLayoutId: suzuka-2
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.807

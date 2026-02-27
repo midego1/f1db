@@ -5,6 +5,7 @@ grandPrixId: emilia-romagna
 officialName: Formula 1 Rolex Gran Premio dell'Emilia Romagna 2022
 qualifyingFormat: SPRINT_RACE
 circuitId: imola
+circuitLayoutId: imola-3
 circuitType: RACE
 direction: ANTI_CLOCKWISE
 courseLength: 4.909

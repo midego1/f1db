@@ -6,6 +6,7 @@ grandPrixId: great-britain
 officialName: Formula 1 Qatar Airways British Grand Prix 2024
 qualifyingFormat: KNOCKOUT
 circuitId: silverstone
+circuitLayoutId: silverstone-8
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.891

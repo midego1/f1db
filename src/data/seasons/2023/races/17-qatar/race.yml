@@ -6,6 +6,7 @@ officialName: Formula 1 Qatar Airways Qatar Grand Prix 2023
 qualifyingFormat: KNOCKOUT
 sprintQualifyingFormat: SPRINT_SHOOTOUT
 circuitId: lusail
+circuitLayoutId: lusail-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.419

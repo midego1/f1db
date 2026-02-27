@@ -10,3 +10,7 @@ latitude: 46.187707
 longitude: -74.609936
 length: 4.265
 turns: 15
+layouts:
+  - id: mont-tremblant-1
+    length: 4.265
+    turns: 15

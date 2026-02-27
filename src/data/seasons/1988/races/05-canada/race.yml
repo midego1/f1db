@@ -5,6 +5,7 @@ grandPrixId: canada
 officialName: Grand Prix Molson du Canada 1988
 qualifyingFormat: TWO_SESSION
 circuitId: montreal
+circuitLayoutId: montreal-3
 circuitType: STREET
 direction: CLOCKWISE
 courseLength: 4.390

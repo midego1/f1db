@@ -7,6 +7,7 @@ officialName: Formula 1 Moët & Chandon Belgian Grand Prix 2025
 qualifyingFormat: KNOCKOUT
 sprintQualifyingFormat: SPRINT_SHOOTOUT
 circuitId: spa-francorchamps
+circuitLayoutId: spa-francorchamps-4
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 7.004

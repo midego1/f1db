@@ -5,6 +5,7 @@ grandPrixId: india
 officialName: 2011 Formula 1 Airtel Grand Prix of India
 qualifyingFormat: KNOCKOUT
 circuitId: buddh
+circuitLayoutId: buddh-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.125

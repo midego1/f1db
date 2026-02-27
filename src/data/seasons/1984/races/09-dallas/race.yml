@@ -5,6 +5,7 @@ grandPrixId: dallas
 officialName: 1984 Dallas Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: dallas
+circuitLayoutId: dallas-1
 circuitType: STREET
 direction: ANTI_CLOCKWISE
 courseLength: 3.901

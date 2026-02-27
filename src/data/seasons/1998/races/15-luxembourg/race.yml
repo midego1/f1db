@@ -5,6 +5,7 @@ grandPrixId: luxembourg
 officialName: Grosser Warsteiner Preis von Luxemburg 1998
 qualifyingFormat: ONE_SESSION
 circuitId: nurburgring
+circuitLayoutId: nurburgring-3
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.556

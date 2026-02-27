@@ -40,6 +40,7 @@ class JsonWriter(
         write("f1db-tyre-manufacturers.json", db.splitted.tyreManufacturers)
         write("f1db-entrants.json", db.splitted.entrants)
         write("f1db-circuits.json", db.splitted.circuits)
+        write("f1db-circuits-layouts.json", db.splitted.circuitLayouts)
         write("f1db-grands-prix.json", db.splitted.grandsPrix)
         write("f1db-seasons.json", db.splitted.seasons)
         write("f1db-seasons-entrants.json", db.splitted.seasonEntrants)

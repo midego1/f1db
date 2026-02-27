@@ -5,6 +5,7 @@ grandPrixId: united-states-west
 officialName: 1976 Long Beach Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: long-beach
+circuitLayoutId: long-beach-1
 circuitType: STREET
 direction: CLOCKWISE
 courseLength: 3.251

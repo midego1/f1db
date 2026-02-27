@@ -5,6 +5,7 @@ grandPrixId: great-britain
 officialName: 2010 Formula 1 Santander British Grand Prix
 qualifyingFormat: KNOCKOUT
 circuitId: silverstone
+circuitLayoutId: silverstone-8
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.901

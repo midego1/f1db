@@ -6,6 +6,7 @@ officialName: Formula 1 Azerbaijan Grand Prix 2023
 qualifyingFormat: KNOCKOUT
 sprintQualifyingFormat: SPRINT_SHOOTOUT
 circuitId: baku
+circuitLayoutId: baku-1
 circuitType: STREET
 direction: ANTI_CLOCKWISE
 courseLength: 6.003

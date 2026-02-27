@@ -7,6 +7,7 @@ officialName: Formula 1 Lenovo Grand Prix du Canada 2026
 qualifyingFormat: KNOCKOUT
 sprintQualifyingFormat: SPRINT_SHOOTOUT
 circuitId: montreal
+circuitLayoutId: montreal-6
 circuitType: STREET
 direction: CLOCKWISE
 courseLength: 4.361

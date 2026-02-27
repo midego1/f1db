@@ -5,6 +5,7 @@ grandPrixId: united-states
 officialName: 1960 United States Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: riverside
+circuitLayoutId: riverside-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.271

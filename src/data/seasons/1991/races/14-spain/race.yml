@@ -5,6 +5,7 @@ grandPrixId: spain
 officialName: Gran Premio Tio Pepe de España 1991
 qualifyingFormat: TWO_SESSION
 circuitId: catalunya
+circuitLayoutId: catalunya-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.747

@@ -5,11 +5,12 @@ grandPrixId: spain
 officialName: Gran Premio de España 1975
 qualifyingFormat: TWO_SESSION
 circuitId: montjuic
+circuitLayoutId: montjuic-1
 circuitType: STREET
 direction: ANTI_CLOCKWISE
-courseLength: 3.790
+courseLength: 3.791
 turns: 12
 laps: 29
-distance: 109.910
+distance: 109.939
 scheduledLaps: 75
-scheduledDistance: 284.250
+scheduledDistance: 284.325

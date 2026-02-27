@@ -5,6 +5,7 @@ grandPrixId: argentina
 officialName: Gran Premio Marlboro de Argentina 1998
 qualifyingFormat: ONE_SESSION
 circuitId: buenos-aires
+circuitLayoutId: buenos-aires-4
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.259

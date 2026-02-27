@@ -5,6 +5,7 @@ grandPrixId: belgium
 officialName: 1972 Belgian Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: nivelles
+circuitLayoutId: nivelles-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 3.724

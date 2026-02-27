@@ -5,6 +5,7 @@ grandPrixId: morocco
 officialName: 1958 Morocco Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: ain-diab
+circuitLayoutId: ain-diab-1
 circuitType: ROAD
 direction: CLOCKWISE
 courseLength: 7.618

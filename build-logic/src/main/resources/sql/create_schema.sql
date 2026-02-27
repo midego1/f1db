@@ -257,6 +257,18 @@ CREATE INDEX "crct_direction_idx" ON "circuit" ("direction");
 CREATE INDEX "crct_place_name_idx" ON "circuit" ("place_name");
 CREATE INDEX "crct_country_id_idx" ON "circuit" ("country_id");
 
+CREATE TABLE "circuit_layout"
+( "id" VARCHAR(100) NOT NULL
+, "circuit_id" VARCHAR(100) NOT NULL
+, "effective" BOOLEAN NOT NULL
+, "length" DECIMAL(6,3) NOT NULL
+, "turns" INTEGER NOT NULL
+, CONSTRAINT "ctlt" PRIMARY KEY ("id")
+, CONSTRAINT "ctlt_circuit_id_fk" FOREIGN KEY ("circuit_id") REFERENCES "circuit" ("id")
+);
+
+CREATE INDEX "ctlt_circuit_id_idx" ON "circuit_layout" ("circuit_id");
+
 CREATE TABLE "grand_prix"
 ( "id" VARCHAR(100) NOT NULL
 , "name" VARCHAR(100) NOT NULL
@@ -553,6 +565,7 @@ CREATE TABLE "race"
 , "qualifying_format" VARCHAR(20) NOT NULL
 , "sprint_qualifying_format" VARCHAR(20)
 , "circuit_id" VARCHAR(100) NOT NULL
+, "circuit_layout_id" VARCHAR(100) NOT NULL
 , "circuit_type" VARCHAR(6) NOT NULL
 , "direction" VARCHAR(14) NOT NULL
 , "course_length" DECIMAL(6,3) NOT NULL
@@ -590,6 +603,7 @@ CREATE TABLE "race"
 , CONSTRAINT "race_year_fk" FOREIGN KEY ("year") REFERENCES "season" ("year")
 , CONSTRAINT "race_grand_prix_id_fk" FOREIGN KEY ("grand_prix_id") REFERENCES "grand_prix" ("id")
 , CONSTRAINT "race_circuit_id_fk" FOREIGN KEY ("circuit_id") REFERENCES "circuit" ("id")
+, CONSTRAINT "race_circuit_layout_id_fk" FOREIGN KEY ("circuit_layout_id") REFERENCES "circuit_layout" ("id")
 );
 
 CREATE INDEX "race_year_idx" ON "race" ("year");
@@ -600,6 +614,7 @@ CREATE INDEX "race_official_name_idx" ON "race" ("official_name");
 CREATE INDEX "race_qualifying_format_idx" ON "race" ("qualifying_format");
 CREATE INDEX "race_sprint_qualifying_format_idx" ON "race" ("sprint_qualifying_format");
 CREATE INDEX "race_circuit_id_idx" ON "race" ("circuit_id");
+CREATE INDEX "race_circuit_layout_id_idx" ON "race" ("circuit_layout_id");
 CREATE INDEX "race_circuit_type_idx" ON "race" ("circuit_type");
 CREATE INDEX "race_direction_idx" ON "race" ("direction");
 

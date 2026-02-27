@@ -5,6 +5,7 @@ grandPrixId: mexico
 officialName: Gran Premio de México 1965
 qualifyingFormat: TWO_SESSION
 circuitId: mexico-city
+circuitLayoutId: mexico-city-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.000

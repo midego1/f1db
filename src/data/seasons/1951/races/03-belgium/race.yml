@@ -5,6 +5,7 @@ grandPrixId: belgium
 officialName: 1951 Belgian Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: spa-francorchamps
+circuitLayoutId: spa-francorchamps-1
 circuitType: ROAD
 direction: CLOCKWISE
 courseLength: 14.120

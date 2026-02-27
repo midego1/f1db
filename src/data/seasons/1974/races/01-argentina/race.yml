@@ -5,6 +5,7 @@ grandPrixId: argentina
 officialName: Gran Premio de Argentina 1974
 qualifyingFormat: TWO_SESSION
 circuitId: buenos-aires
+circuitLayoutId: buenos-aires-3
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.968

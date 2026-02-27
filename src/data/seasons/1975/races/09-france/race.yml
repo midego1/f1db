@@ -5,6 +5,7 @@ grandPrixId: france
 officialName: Grand Prix de France 1975
 qualifyingFormat: TWO_SESSION
 circuitId: paul-ricard
+circuitLayoutId: paul-ricard-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.809

@@ -5,6 +5,7 @@ grandPrixId: canada
 officialName: Formula 1 Pirelli Grand Prix du Canada 2019
 qualifyingFormat: KNOCKOUT
 circuitId: montreal
+circuitLayoutId: montreal-6
 circuitType: STREET
 direction: CLOCKWISE
 courseLength: 4.361

@@ -5,6 +5,7 @@ grandPrixId: great-britain
 officialName: 1972 John Player British Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: brands-hatch
+circuitLayoutId: brands-hatch-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.265

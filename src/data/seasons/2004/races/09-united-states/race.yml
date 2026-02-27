@@ -5,6 +5,7 @@ grandPrixId: united-states
 officialName: 2004 Formula 1 United States Grand Prix
 qualifyingFormat: ONE_LAP
 circuitId: indianapolis
+circuitLayoutId: indianapolis-2
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.192

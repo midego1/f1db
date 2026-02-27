@@ -10,3 +10,7 @@ latitude: 42.475
 longitude: 14.150833
 length: 25.579
 turns: 24
+layouts:
+  - id: pescara-1
+    length: 25.579
+    turns: 24

@@ -11,3 +11,7 @@ latitude: 34.915
 longitude: 134.221111
 length: 3.703
 turns: 13
+layouts:
+  - id: aida-1
+    length: 3.703
+    turns: 13

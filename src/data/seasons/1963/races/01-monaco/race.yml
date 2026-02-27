@@ -5,6 +5,7 @@ grandPrixId: monaco
 officialName: Grand Prix de Monaco 1963
 qualifyingFormat: TWO_SESSION
 circuitId: monaco
+circuitLayoutId: monaco-2
 circuitType: STREET
 direction: CLOCKWISE
 courseLength: 3.145

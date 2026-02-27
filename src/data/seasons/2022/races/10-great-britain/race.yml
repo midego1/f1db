@@ -5,6 +5,7 @@ grandPrixId: great-britain
 officialName: Formula 1 Lenovo British Grand Prix 2022
 qualifyingFormat: KNOCKOUT
 circuitId: silverstone
+circuitLayoutId: silverstone-8
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.891

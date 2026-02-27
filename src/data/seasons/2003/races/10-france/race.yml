@@ -5,6 +5,7 @@ grandPrixId: france
 officialName: Mobil 1 Grand Prix de France 2003
 qualifyingFormat: ONE_LAP
 circuitId: magny-cours
+circuitLayoutId: magny-cours-3
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.411

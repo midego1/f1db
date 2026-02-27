@@ -143,6 +143,14 @@ Follow these steps:
 and the release action is automatically triggered by pushing the new tag.
 
 
+## Authors and Contributors
+
+- [Marcel Overdijk](https://github.com/marceloverdijk) – Creator and core maintainer of F1DB
+- [Jules Roy](https://github.com/julesr0y) – [Circuit SVG assets](https://github.com/f1db/f1db/tree/main/src/assets/circuits)
+
+For a full list of all contributors, see [GitHub Contributors](https://github.com/f1db/f1db/graphs/contributors).
+
+
 ## Projects using F1DB
 
 - 🌐 [F1+](https://formula1.plus/) – F1 Predictions, Live Standings & Race Intelligence

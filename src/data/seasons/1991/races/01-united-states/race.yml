@@ -5,6 +5,7 @@ grandPrixId: united-states
 officialName: 1991 Iceberg USA Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: phoenix
+circuitLayoutId: phoenix-2
 circuitType: STREET
 direction: ANTI_CLOCKWISE
 courseLength: 3.721

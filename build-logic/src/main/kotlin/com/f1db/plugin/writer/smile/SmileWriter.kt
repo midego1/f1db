@@ -39,6 +39,7 @@ class SmileWriter(
         write("f1db-tyre-manufacturers.sml", db.splitted.tyreManufacturers)
         write("f1db-entrants.sml", db.splitted.entrants)
         write("f1db-circuits.sml", db.splitted.circuits)
+        write("f1db-circuits-layouts.sml", db.splitted.circuitLayouts)
         write("f1db-grands-prix.sml", db.splitted.grandsPrix)
         write("f1db-seasons.sml", db.splitted.seasons)
         write("f1db-seasons-entrants.sml", db.splitted.seasonEntrants)

@@ -5,6 +5,7 @@ grandPrixId: europe
 officialName: 2010 Formula 1 Telefónica Grand Prix of Europe
 qualifyingFormat: KNOCKOUT
 circuitId: valencia
+circuitLayoutId: valencia-1
 circuitType: STREET
 direction: CLOCKWISE
 courseLength: 5.419

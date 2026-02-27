@@ -5,6 +5,7 @@ grandPrixId: hungary
 officialName: Marlboro Magyar Nagydíj 2003
 qualifyingFormat: ONE_LAP
 circuitId: hungaroring
+circuitLayoutId: hungaroring-3
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.381

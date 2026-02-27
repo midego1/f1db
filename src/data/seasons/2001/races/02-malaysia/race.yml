@@ -5,6 +5,7 @@ grandPrixId: malaysia
 officialName: 2001 Petronas Malaysian Grand Prix
 qualifyingFormat: ONE_SESSION
 circuitId: sepang
+circuitLayoutId: sepang-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.543

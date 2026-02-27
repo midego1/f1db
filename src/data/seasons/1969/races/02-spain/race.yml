@@ -5,9 +5,10 @@ grandPrixId: spain
 officialName: Gran Premio de España 1969
 qualifyingFormat: TWO_SESSION
 circuitId: montjuic
+circuitLayoutId: montjuic-1
 circuitType: STREET
 direction: ANTI_CLOCKWISE
-courseLength: 3.790
+courseLength: 3.791
 turns: 12
 laps: 90
-distance: 341.100
+distance: 341.190

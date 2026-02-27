@@ -5,6 +5,7 @@ grandPrixId: portugal
 officialName: Grande Prémio de Portugal 1958
 qualifyingFormat: TWO_SESSION
 circuitId: porto
+circuitLayoutId: porto-1
 circuitType: STREET
 direction: ANTI_CLOCKWISE
 courseLength: 7.406

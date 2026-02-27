@@ -5,6 +5,7 @@ grandPrixId: europe
 officialName: Grosser Preis von Europa 1984
 qualifyingFormat: TWO_SESSION
 circuitId: nurburgring
+circuitLayoutId: nurburgring-2
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.542

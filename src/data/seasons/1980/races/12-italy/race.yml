@@ -5,6 +5,7 @@ grandPrixId: italy
 officialName: Gran Premio d'Italia 1980
 qualifyingFormat: TWO_SESSION
 circuitId: imola
+circuitLayoutId: imola-1
 circuitType: RACE
 direction: ANTI_CLOCKWISE
 courseLength: 5.040

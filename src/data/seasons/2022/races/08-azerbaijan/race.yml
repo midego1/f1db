@@ -5,6 +5,7 @@ grandPrixId: azerbaijan
 officialName: Formula 1 Azerbaijan Grand Prix 2022
 qualifyingFormat: KNOCKOUT
 circuitId: baku
+circuitLayoutId: baku-1
 circuitType: STREET
 direction: ANTI_CLOCKWISE
 courseLength: 6.003

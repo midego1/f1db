@@ -5,6 +5,7 @@ grandPrixId: brazil
 officialName: Grande Prêmio do Brasil 1994
 qualifyingFormat: TWO_SESSION
 circuitId: interlagos
+circuitLayoutId: interlagos-2
 circuitType: RACE
 direction: ANTI_CLOCKWISE
 courseLength: 4.325

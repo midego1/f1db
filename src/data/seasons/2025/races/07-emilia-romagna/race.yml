@@ -6,6 +6,7 @@ grandPrixId: emilia-romagna
 officialName: Formula 1 AWS Gran Premio del Made in Italy e dell'Emilia Romagna 2025
 qualifyingFormat: KNOCKOUT
 circuitId: imola
+circuitLayoutId: imola-3
 circuitType: RACE
 direction: ANTI_CLOCKWISE
 courseLength: 4.909

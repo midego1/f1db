@@ -5,6 +5,7 @@ grandPrixId: china
 officialName: Formula 1 Heineken Chinese Grand Prix 2019
 qualifyingFormat: KNOCKOUT
 circuitId: shanghai
+circuitLayoutId: shanghai-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.451

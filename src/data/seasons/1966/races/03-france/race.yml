@@ -5,6 +5,7 @@ grandPrixId: france
 officialName: Grand Prix de France 1966
 qualifyingFormat: TWO_SESSION
 circuitId: reims
+circuitLayoutId: reims-2
 circuitType: ROAD
 direction: CLOCKWISE
 courseLength: 8.302

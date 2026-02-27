@@ -6,6 +6,7 @@ grandPrixId: singapore
 officialName: Formula 1 Singapore Airlines Singapore Grand Prix 2024
 qualifyingFormat: KNOCKOUT
 circuitId: marina-bay
+circuitLayoutId: marina-bay-4
 circuitType: STREET
 direction: ANTI_CLOCKWISE
 courseLength: 4.940

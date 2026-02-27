@@ -5,6 +5,7 @@ import com.f1db.plugin.schema.RaceDataType
 import com.f1db.plugin.schema.single.F1db
 import com.f1db.plugin.writer.sql.Tables.*
 import com.f1db.plugin.writer.sql.mapper.chassisMapper
+import com.f1db.plugin.writer.sql.mapper.circuitLayoutMapper
 import com.f1db.plugin.writer.sql.mapper.circuitMapper
 import com.f1db.plugin.writer.sql.mapper.constructorChronologyMapper
 import com.f1db.plugin.writer.sql.mapper.constructorMapper
@@ -109,6 +110,7 @@ class SqliteDatabaseWriter(
             batchInsert(ctx, TYRE_MANUFACTURER, tyreManufacturerMapper.unmap(db.splitted.tyreManufacturers))
             batchInsert(ctx, ENTRANT, entrantMapper.unmap(db.splitted.entrants))
             batchInsert(ctx, CIRCUIT, circuitMapper.unmap(db.splitted.circuits))
+            batchInsert(ctx, CIRCUIT_LAYOUT, circuitLayoutMapper.unmap(db.splitted.circuitLayouts))
             batchInsert(ctx, GRAND_PRIX, grandPrixMapper.unmap(db.splitted.grandsPrix))
             batchInsert(ctx, SEASON, seasonMapper.unmap(db.splitted.seasons))
             batchInsert(ctx, SEASON_ENTRANT, seasonEntrantMapper.unmap(db.splitted.seasonEntrants))

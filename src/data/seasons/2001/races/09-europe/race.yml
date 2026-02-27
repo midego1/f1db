@@ -5,6 +5,7 @@ grandPrixId: europe
 officialName: 2001 Warsteiner Grand Prix of Europe
 qualifyingFormat: ONE_SESSION
 circuitId: nurburgring
+circuitLayoutId: nurburgring-3
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.556

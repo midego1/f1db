@@ -5,6 +5,7 @@ grandPrixId: monaco
 officialName: Grand Prix de Monaco 1986
 qualifyingFormat: TWO_SESSION
 circuitId: monaco
+circuitLayoutId: monaco-5
 circuitType: STREET
 direction: CLOCKWISE
 courseLength: 3.328

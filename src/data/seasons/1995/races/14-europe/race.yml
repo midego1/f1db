@@ -5,6 +5,7 @@ grandPrixId: europe
 officialName: 1995 Grand Prix of Europe
 qualifyingFormat: TWO_SESSION
 circuitId: nurburgring
+circuitLayoutId: nurburgring-3
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.556

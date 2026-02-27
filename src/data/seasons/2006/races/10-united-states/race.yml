@@ -5,6 +5,7 @@ grandPrixId: united-states
 officialName: 2006 United States Grand Prix
 qualifyingFormat: KNOCKOUT
 circuitId: indianapolis
+circuitLayoutId: indianapolis-2
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.192

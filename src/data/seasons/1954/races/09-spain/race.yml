@@ -5,6 +5,7 @@ grandPrixId: spain
 officialName: Gran Premio de España 1954
 qualifyingFormat: TWO_SESSION
 circuitId: pedralbes
+circuitLayoutId: pedralbes-1
 circuitType: STREET
 direction: CLOCKWISE
 courseLength: 6.316

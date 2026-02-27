@@ -5,6 +5,7 @@ grandPrixId: italy
 officialName: Gran Premio d'Italia 1960
 qualifyingFormat: TWO_SESSION
 circuitId: monza
+circuitLayoutId: monza-2
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 10.000

@@ -5,6 +5,7 @@ grandPrixId: canada
 officialName: Grand Prix Player's du Canada 1998
 qualifyingFormat: ONE_SESSION
 circuitId: montreal
+circuitLayoutId: montreal-5
 circuitType: STREET
 direction: CLOCKWISE
 courseLength: 4.421

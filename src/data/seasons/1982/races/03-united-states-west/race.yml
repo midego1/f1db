@@ -5,6 +5,7 @@ grandPrixId: united-states-west
 officialName: 1982 Toyota Grand Prix of Long Beach
 qualifyingFormat: TWO_SESSION
 circuitId: long-beach
+circuitLayoutId: long-beach-2
 circuitType: STREET
 direction: CLOCKWISE
 courseLength: 3.428

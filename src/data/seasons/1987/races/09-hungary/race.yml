@@ -5,6 +5,7 @@ grandPrixId: hungary
 officialName: Magyar Nagydíj 1987
 qualifyingFormat: TWO_SESSION
 circuitId: hungaroring
+circuitLayoutId: hungaroring-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.014

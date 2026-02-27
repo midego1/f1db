@@ -5,6 +5,7 @@ grandPrixId: france
 officialName: Grand Prix de France 1974
 qualifyingFormat: TWO_SESSION
 circuitId: dijon
+circuitLayoutId: dijon-1
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 3.289

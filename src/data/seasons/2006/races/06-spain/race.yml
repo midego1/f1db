@@ -5,6 +5,7 @@ grandPrixId: spain
 officialName: Formula 1 Gran Premio Telefónica de España 2006
 qualifyingFormat: KNOCKOUT
 circuitId: catalunya
+circuitLayoutId: catalunya-3
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 4.627

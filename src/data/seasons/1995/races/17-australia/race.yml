@@ -5,6 +5,7 @@ grandPrixId: australia
 officialName: 1995 EDS Australian Grand Prix
 qualifyingFormat: TWO_SESSION
 circuitId: adelaide
+circuitLayoutId: adelaide-1
 circuitType: STREET
 direction: CLOCKWISE
 courseLength: 3.780

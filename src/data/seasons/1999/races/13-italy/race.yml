@@ -5,6 +5,7 @@ grandPrixId: italy
 officialName: Gran Premio Campari d'Italia 1999
 qualifyingFormat: ONE_SESSION
 circuitId: monza
+circuitLayoutId: monza-6
 circuitType: RACE
 direction: CLOCKWISE
 courseLength: 5.770

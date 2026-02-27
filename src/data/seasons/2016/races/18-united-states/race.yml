@@ -5,6 +5,7 @@ grandPrixId: united-states
 officialName: 2016 Formula 1 United States Grand Prix
 qualifyingFormat: KNOCKOUT
 circuitId: austin
+circuitLayoutId: austin-1
 circuitType: RACE
 direction: ANTI_CLOCKWISE
 courseLength: 5.513

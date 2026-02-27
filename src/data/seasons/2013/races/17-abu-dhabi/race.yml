@@ -5,6 +5,7 @@ grandPrixId: abu-dhabi
 officialName: 2013 Formula 1 Etihad Airways Abu Dhabi Grand Prix
 qualifyingFormat: KNOCKOUT
 circuitId: yas-marina
+circuitLayoutId: yas-marina-1
 circuitType: RACE
 direction: ANTI_CLOCKWISE
 courseLength: 5.554
