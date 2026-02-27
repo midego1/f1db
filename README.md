@@ -148,6 +148,34 @@ Each circuit layout is provided in four styles: black, black-outline, white, and
   </div>
 </div>
 
+<p align="center">
+  <span style="display:inline-block; margin:10px; padding:20px; border:1px solid #333; background:#fff;">
+    <img src="https://raw.githubusercontent.com/f1db/f1db/refs/heads/main/src/assets/circuits/black/silverstone-8.svg"
+         alt="black" width="200" />
+    <br/><sub>black</sub>
+  </span>
+
+  <span style="display:inline-block; margin:10px; padding:20px; border:1px solid #333; background:#fff;">
+    <img src="https://raw.githubusercontent.com/f1db/f1db/refs/heads/main/src/assets/circuits/black-outline/silverstone-8.svg"
+         alt="black-outline" width="200" />
+    <br/><sub>black-outline</sub>
+  </span>
+</p>
+
+<p align="center">
+  <span style="display:inline-block; margin:10px; padding:20px; border:1px solid #333; background:#333;">
+    <img src="https://raw.githubusercontent.com/f1db/f1db/refs/heads/main/src/assets/circuits/white/silverstone-8.svg"
+         alt="white" width="200" />
+    <br/><sub>white</sub>
+  </span>
+
+  <span style="display:inline-block; margin:10px; padding:20px; border:1px solid #333; background:#333;">
+    <img src="https://raw.githubusercontent.com/f1db/f1db/refs/heads/main/src/assets/circuits/white-outline/silverstone-8.svg"
+         alt="white-outline" width="200" />
+    <br/><sub>white-outline</sub>
+  </span>
+</p>
+
 
 ## Community
 
