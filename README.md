@@ -45,7 +45,7 @@ Release artifacts are available in the following formats:
 ## F1DB JSON Schema
 
 The main [`f1db.schema.json`](https://raw.githubusercontent.com/f1db/f1db/main/src/schema/current/single/f1db.schema.json)
-schema file contains all F1DB object definitions and serves as the main documentation.  
+schema file contains all F1DB object definitions and serves as the main documentation.
 
 For the splitted distributions the [splitted](https://github.com/f1db/f1db/tree/main/src/schema/current/splitted)
 schema files must be used.
@@ -69,7 +69,7 @@ Since `v2024.3.0` SQL artifacts are available for MySQL, PostgreSQL and SQLite
 that provide .sql dump files to import the schema and data directly in these database systems.
 
 If you want to populate another database system (e.g. H2) then most likely the
-PostgreSQL .sql dump file is your best option. 
+PostgreSQL .sql dump file is your best option.
 If that doesn't work, and you want a .sql dump file for another database system to be added
 to the release artifacts, then please create a [feature request](https://github.com/f1db/f1db/issues).
 
@@ -146,9 +146,10 @@ and the release action is automatically triggered by pushing the new tag.
 ## Projects using F1DB
 
 - 🌐 [F1+](https://formula1.plus/) – F1 Predictions, Live Standings & Race Intelligence
+- 🏎️ [fastestlap.io](https://fastestlap.io/) – Go-to source for Formula 1 history and statistics
 - 🤖 [OvertakeGP](https://play.google.com/store/apps/details?id=com.kkgosu.overtakegp) – OvertakeGP is a fast, focused Formula 1® companion that brings decades of racing data into one clean app
 
-Are you using F1DB? We'd love to feature your project!  
+Are you using F1DB? We'd love to feature your project!
 Please send us a message, create an [issue](https://github.com/f1db/f1db/issues/new), or open a pull request to add it here.
 
 
@@ -161,7 +162,7 @@ F1DB is licensed under a [Creative Commons Attribution 4.0 International License
 
 [F1DB]: https://www.f1db.com
 [CalVer]: https://calver.org/
-[CC BY]: http://creativecommons.org/licenses/by/4.0/  
+[CC BY]: http://creativecommons.org/licenses/by/4.0/
 [CC BY Icon Compact]: https://i.creativecommons.org/l/by/4.0/80x15.png
 [CC BY Icon Normal]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [CC BY Plaintext]: https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt
