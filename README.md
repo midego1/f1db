@@ -69,7 +69,7 @@ Starting from `v2024.3.0` SQL artifacts are available for MySQL, PostgreSQL and 
 that provide .sql dump files to import the schema and data directly in these database systems.
 
 If you want to populate another database system (e.g. H2) then most likely the
-PostgreSQL .sql dump file is your best option.
+PostgreSQL .sql dump file is your best option.\
 If that doesn't work, and you want a .sql dump file for another database system to be added
 to the release artifacts, then please create a [feature request](https://github.com/f1db/f1db/issues).
 
@@ -111,7 +111,7 @@ Matching SVG assets for all circuit layouts are available in [`src/assets/circui
 Because these SVG files rarely change, they are not bundled with the standard release artifacts.
 Instead, they can be downloaded directly from the repository.
 
-Each circuit layout is provided in four styles: black, black-outline, white, and white-outline.
+Each circuit layout is provided in four styles: black, black-outline, white, and white-outline.\
 
 <div>
   <img src="https://raw.githubusercontent.com/f1db/f1db/refs/heads/main/src/assets/circuits/black/silverstone-8.svg"
@@ -178,7 +178,7 @@ For a full list of all contributors, see [GitHub Contributors](https://github.co
 - 🏎️ [fastestlap.io](https://fastestlap.io/) – Go-to source for Formula 1 history and statistics
 - 🤖 [OvertakeGP](https://play.google.com/store/apps/details?id=com.kkgosu.overtakegp) – OvertakeGP is a fast, focused Formula 1® companion that brings decades of racing data into one clean app
 
-Are you using F1DB? We'd love to feature your project!
+Are you using F1DB? We'd love to feature your project!\
 Please send us a message, create an [issue](https://github.com/f1db/f1db/issues/new), or open a pull request to add it here.
 
 
