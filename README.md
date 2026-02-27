@@ -65,7 +65,7 @@ The database file could also serve students who want to learn SQL.
 We suggest to use [SQLiteStudio] for querying the database file.
 Of course any SQLite compliant SQL client can be used as well.
 
-Since `v2024.3.0` SQL artifacts are available for MySQL, PostgreSQL and SQLite
+Starting from `v2024.3.0` SQL artifacts are available for MySQL, PostgreSQL and SQLite
 that provide .sql dump files to import the schema and data directly in these database systems.
 
 If you want to populate another database system (e.g. H2) then most likely the
@@ -100,6 +100,53 @@ Examples:
 - **2026.2.2** – Second patch release after the 2<sup>nd</sup> race round of the 2026 season.
 
 As you can see we use a special **RR** `0` for pre-season releases.
+
+
+## Circuit SVG Assets
+
+Starting from `v2026.0.1` (schema `v6.4.0`) circuit layouts have been introduced.
+
+Matching SVG assets for all circuit layouts are available in [`src/assets/circuits`](https://github.com/f1db/f1db/tree/main/src/assets/circuits).
+
+Because these SVG files rarely change, they are not bundled with the standard release artifacts.
+Instead, they can be downloaded directly from the repository.
+
+Each circuit layout is provided in four styles: black, black-outline, white, and white-outline.
+
+<div>
+  <div>
+    <div style="display: inline-block; margin: 10px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/f1db/f1db/refs/heads/main/src/assets/circuits/black/silverstone-8.svg"
+          alt="black"
+          width="200"
+          style="border: 1px solid #333; padding: 20px; background-color: #fff;" />
+      <div><sub>white</sub></div>
+    </div>
+    <div style="display: inline-block; margin: 10px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/f1db/f1db/refs/heads/main/src/assets/circuits/black-outline/silverstone-8.svg"
+          alt="black-outline"
+          width="200"
+          style="border: 1px solid #333; padding: 20px; background-color: #fff;" />
+      <div><sub>white</sub></div>
+    </div>
+  </div>
+  <div>  
+    <div style="display: inline-block; margin: 10px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/f1db/f1db/refs/heads/main/src/assets/circuits/white/silverstone-8.svg"
+          alt="white"
+          width="200"
+          style="border: 1px solid #333; padding: 20px; background-color: #333;" />
+      <div><sub>white</sub></div>
+    </div>
+    <div style="display: inline-block; margin: 10px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/f1db/f1db/refs/heads/main/src/assets/circuits/white-outline/silverstone-8.svg"
+          alt="white-outline"
+          width="200"
+          style="border: 1px solid #333; padding: 20px; background-color: #333;" />
+      <div><sub>white-outline</sub></div>
+    </div>
+  </div>
+</div>
 
 
 ## Community
