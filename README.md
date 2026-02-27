@@ -175,7 +175,7 @@ For a full list of all contributors, see [GitHub Contributors](https://github.co
 ## Projects using F1DB
 
 - 🌐 [F1+](https://formula1.plus/) – F1 Predictions, Live Standings & Race Intelligence
-- 🏎️ [fastestlap.io](https://fastestlap.io/) – Go-to source for Formula 1 history and statistics
+- 🌐️ [fastestlap.io](https://fastestlap.io/) – Go-to source for Formula 1 history and statistics
 - 🤖 [OvertakeGP](https://play.google.com/store/apps/details?id=com.kkgosu.overtakegp) – OvertakeGP is a fast, focused Formula 1® companion that brings decades of racing data into one clean app
 
 Are you using F1DB? We'd love to feature your project!\
