@@ -114,11 +114,17 @@ Instead, they can be downloaded directly from the repository.
 Each circuit layout is provided in four styles: black, black-outline, white, and white-outline.
 
 <div>
-  <img src="https://raw.githubusercontent.com/f1db/f1db/refs/heads/main/src/assets/circuits/black/silverstone-8.svg"
+  <img src="https://raw.githubusercontent.com/f1db/f1db/refs/heads/main/src/assets/circuits/black/silverstone-8.svg#gh-light-mode-only"
        alt="black"
        width="200" />
-  <img src="https://raw.githubusercontent.com/f1db/f1db/refs/heads/main/src/assets/circuits/black-outline/silverstone-8.svg"
+  <img src="https://raw.githubusercontent.com/f1db/f1db/refs/heads/main/src/assets/circuits/black-outline/silverstone-8.svg#gh-light-mode-only"
        alt="black-outline"
+       width="200" />
+  <img src="https://raw.githubusercontent.com/f1db/f1db/refs/heads/main/src/assets/circuits/white/silverstone-8.svg#gh-dark-mode-only"
+       alt="white"
+       width="200" />
+  <img src="https://raw.githubusercontent.com/f1db/f1db/refs/heads/main/src/assets/circuits/white-outline/silverstone-8.svg#gh-dark-mode-only"
+       alt="white-outline"
        width="200" />
 </div>
 
