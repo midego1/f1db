@@ -42,14 +42,14 @@ Release artifacts are available in the following formats:
 - SQLite database
 
 
-## Notable changes in `v2026.8.2`
+## Notable changes in `>= v2026.8.2`
 
 - Added `sprintRaceLaps`, `sprintRaceDistance`, `sprintRaceScheduledLaps` and `sprintRaceScheduledDistance` properties to `Race` object.
 
 To accommodate this change the JSON Schema is bumped to version `v6.5.0`.
 
 
-## Notable changes in `v2026.0.1`
+## Notable changes in `>= v2026.0.1`
 
 - Added new `CircuitLayout` object.
 - Added `layouts` property to `Circuit` object.
