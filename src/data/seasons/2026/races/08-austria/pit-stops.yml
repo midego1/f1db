@@ -161,6 +161,15 @@
   lap: 24
   time: "21.593"
 - position: 19
+  driverNumber: 14
+  driverId: fernando-alonso
+  constructorId: aston-martin
+  engineManufacturerId: honda
+  tyreManufacturerId: pirelli
+  stop: 1
+  lap: 24
+  time: "22.358"
+- position: 20
   driverNumber: 18
   driverId: lance-stroll
   constructorId: aston-martin
@@ -169,7 +178,7 @@
   stop: 1
   lap: 24
   time: "23.522"
-- position: 20
+- position: 21
   driverNumber: 44
   driverId: lewis-hamilton
   constructorId: ferrari
@@ -178,7 +187,7 @@
   stop: 2
   lap: 25
   time: "21.250"
-- position: 21
+- position: 22
   driverNumber: 31
   driverId: esteban-ocon
   constructorId: haas
@@ -187,7 +196,7 @@
   stop: 2
   lap: 33
   time: "25.455"
-- position: 22
+- position: 23
   driverNumber: 16
   driverId: charles-leclerc
   constructorId: ferrari
@@ -196,7 +205,7 @@
   stop: 2
   lap: 37
   time: "21.020"
-- position: 23
+- position: 24
   driverNumber: 23
   driverId: alexander-albon
   constructorId: williams
@@ -205,7 +214,7 @@
   stop: 2
   lap: 37
   time: "21.270"
-- position: 24
+- position: 25
   driverNumber: 10
   driverId: pierre-gasly
   constructorId: alpine
@@ -214,7 +223,7 @@
   stop: 2
   lap: 38
   time: "21.212"
-- position: 25
+- position: 26
   driverNumber: 6
   driverId: isack-hadjar
   constructorId: red-bull
@@ -223,7 +232,7 @@
   stop: 2
   lap: 40
   time: "21.268"
-- position: 26
+- position: 27
   driverNumber: 81
   driverId: oscar-piastri
   constructorId: mclaren
@@ -232,7 +241,7 @@
   stop: 2
   lap: 42
   time: "21.209"
-- position: 27
+- position: 28
   driverNumber: 44
   driverId: lewis-hamilton
   constructorId: ferrari
@@ -241,7 +250,7 @@
   stop: 3
   lap: 42
   time: "21.267"
-- position: 28
+- position: 29
   driverNumber: 63
   driverId: george-russell
   constructorId: mercedes
@@ -250,7 +259,7 @@
   stop: 2
   lap: 43
   time: "21.221"
-- position: 29
+- position: 30
   driverNumber: 5
   driverId: gabriel-bortoleto
   constructorId: audi
@@ -259,7 +268,7 @@
   stop: 2
   lap: 44
   time: "21.877"
-- position: 30
+- position: 31
   driverNumber: 30
   driverId: liam-lawson
   constructorId: racing-bulls
@@ -268,7 +277,7 @@
   stop: 2
   lap: 45
   time: "21.545"
-- position: 31
+- position: 32
   driverNumber: 27
   driverId: nico-hulkenberg
   constructorId: audi
@@ -277,7 +286,7 @@
   stop: 2
   lap: 45
   time: "22.591"
-- position: 32
+- position: 33
   driverNumber: 87
   driverId: oliver-bearman
   constructorId: haas
@@ -286,7 +295,7 @@
   stop: 2
   lap: 45
   time: "22.044"
-- position: 33
+- position: 34
   driverNumber: 41
   driverId: arvid-lindblad
   constructorId: racing-bulls
@@ -295,7 +304,7 @@
   stop: 2
   lap: 46
   time: "21.551"
-- position: 34
+- position: 35
   driverNumber: 1
   driverId: lando-norris
   constructorId: mclaren
@@ -304,7 +313,7 @@
   stop: 2
   lap: 47
   time: "21.816"
-- position: 35
+- position: 36
   driverNumber: 43
   driverId: franco-colapinto
   constructorId: alpine
@@ -313,7 +322,7 @@
   stop: 2
   lap: 46
   time: "21.446"
-- position: 36
+- position: 37
   driverNumber: 3
   driverId: max-verstappen
   constructorId: red-bull
@@ -322,7 +331,7 @@
   stop: 2
   lap: 49
   time: "21.252"
-- position: 37
+- position: 38
   driverNumber: 12
   driverId: kimi-antonelli
   constructorId: mercedes
@@ -331,7 +340,7 @@
   stop: 2
   lap: 51
   time: "21.502"
-- position: 38
+- position: 39
   driverNumber: 14
   driverId: fernando-alonso
   constructorId: aston-martin
@@ -340,7 +349,7 @@
   stop: 2
   lap: 49
   time: "28.713"
-- position: 39
+- position: 40
   driverNumber: 10
   driverId: pierre-gasly
   constructorId: alpine
@@ -349,7 +358,7 @@
   stop: 3
   lap: 51
   time: "21.580"
-- position: 40
+- position: 41
   driverNumber: 16
   driverId: charles-leclerc
   constructorId: ferrari
