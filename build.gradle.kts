@@ -2,7 +2,7 @@ plugins {
     distribution
     kotlin("jvm") version "2.3.21"
     id("com.f1db")
-    id("org.jreleaser") version "1.17.0"
+    id("org.jreleaser") version "1.25.0"
 }
 
 group = "com.f1db"
