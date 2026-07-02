@@ -14,3 +14,5 @@ turns: 16
 laps: 57
 distance: 308.611
 driversChampionshipDecider: true
+sprintRaceLaps: 19
+sprintRaceDistance: 102.689

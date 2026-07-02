@@ -42,6 +42,13 @@ Release artifacts are available in the following formats:
 - SQLite database
 
 
+## Notable changes in `v2026.8.2`
+
+- Added `sprintRaceLaps`, `sprintRaceDistance`, `sprintRaceScheduledLaps` and `sprintRaceScheduledDistance` properties to `Race` object.
+
+To accommodate this change the JSON Schema is bumped to version `v6.5.0`.
+
+
 ## Notable changes in `v2026.0.1`
 
 - Added new `CircuitLayout` object.
@@ -162,7 +169,7 @@ or without running the tests (way faster):
 
     ./gradlew clean build -x test
 
-The build requires Java 21, running the tests requires an environment with Docker.
+The build requires Java 25, running the tests requires an environment with Docker.
 
 
 ## Releasing

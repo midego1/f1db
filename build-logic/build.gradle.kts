@@ -3,9 +3,9 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
     `java-gradle-plugin`
-    kotlin("jvm") version "2.3.10"
-    kotlin("kapt") version "2.3.10"
-    id("org.jooq.jooq-codegen-gradle") version "3.20.11"
+    kotlin("jvm") version "2.3.21"
+    kotlin("kapt") version "2.3.21"
+    id("org.jooq.jooq-codegen-gradle") version "3.21.6"
     id("org.jsonschema2pojo") version "1.3.3"
 }
 
@@ -21,15 +21,15 @@ gradlePlugin {
     }
 }
 
-val jacksonVersion by extra("2.21.1")
-val jooqVersion by extra("3.20.11")
+val jacksonVersion by extra("2.22.0")
+val jooqVersion by extra("3.21.6")
 val mapstructVersion by extra("1.6.3")
-val slf4jVersion by extra("2.0.17")
-val sqliteJdbcVersion by extra("3.51.2.0")
+val slf4jVersion by extra("2.0.18")
+val sqliteJdbcVersion by extra("3.53.2.0")
 
 java {
     toolchain {
-        languageVersion = JavaLanguageVersion.of(21)
+        languageVersion = JavaLanguageVersion.of(25)
     }
 }
 
@@ -98,7 +98,7 @@ jsonSchema2Pojo {
     targetDirectory = file("build/generated-sources/jsonschema2pojo")
     removeOldOutput = true
     targetPackage = "com.f1db.plugin.schema"
-    targetVersion = "21"
+    targetVersion = "25"
     dateTimeType = "java.time.OffsetDateTime"
     dateType = "java.time.LocalDate"
     timeType = "java.time.OffsetTime"

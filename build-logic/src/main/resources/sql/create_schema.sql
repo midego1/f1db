@@ -574,10 +574,6 @@ CREATE TABLE "race"
 , "distance" DECIMAL(6,3) NOT NULL
 , "scheduled_laps" INTEGER
 , "scheduled_distance" DECIMAL(6,3)
-, "sprint_race_laps" INTEGER
-, "sprint_race_distance" DECIMAL(6,3)
-, "sprint_race_scheduled_laps" INTEGER
-, "sprint_race_scheduled_distance" DECIMAL(6,3)	
 , "drivers_championship_decider" BOOLEAN NOT NULL
 , "constructors_championship_decider" BOOLEAN NOT NULL
 , "pre_qualifying_date" DATE
@@ -600,6 +596,10 @@ CREATE TABLE "race"
 , "sprint_qualifying_time" VARCHAR(5)
 , "sprint_race_date" DATE
 , "sprint_race_time" VARCHAR(5)
+, "sprint_race_laps" INTEGER
+, "sprint_race_distance" DECIMAL(6,3)
+, "sprint_race_scheduled_laps" INTEGER
+, "sprint_race_scheduled_distance" DECIMAL(6,3)
 , "warming_up_date" DATE
 , "warming_up_time" VARCHAR(5)
 , CONSTRAINT "race_pk" PRIMARY KEY ("id")

@@ -13,3 +13,5 @@ courseLength: 4.318
 turns: 10
 laps: 71
 distance: 306.452
+sprintRaceLaps: 24
+sprintRaceDistance: 103.506
