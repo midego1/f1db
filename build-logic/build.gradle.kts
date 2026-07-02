@@ -21,11 +21,11 @@ gradlePlugin {
     }
 }
 
-val jacksonVersion by extra("2.22.0")
-val jooqVersion by extra("3.21.6")
-val mapstructVersion by extra("1.6.3")
-val slf4jVersion by extra("2.0.18")
-val sqliteJdbcVersion by extra("3.53.2.0")
+val jacksonVersion = "2.22.0"
+val jooqVersion = "3.21.6"
+val mapstructVersion = "1.6.3"
+val slf4jVersion = "2.0.18"
+val sqliteJdbcVersion = "3.53.2.0"
 
 java {
     toolchain {
@@ -60,7 +60,7 @@ dependencies {
 }
 
 sourceSets {
-    val main by getting {
+    getByName("main") {
         java {
             srcDir("build/generated-sources/jooq")
             srcDir("build/generated-sources/jsonschema2pojo")

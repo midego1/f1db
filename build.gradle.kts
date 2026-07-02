@@ -10,13 +10,13 @@ group = "com.f1db"
 val currentSeasonProperty = project.property("currentSeason") as String
 val currentSeasonFinishedProperty = project.property("currentSeasonFinished") as String
 
-val joyVersion by extra("2.1.0")
-val junitVersion by extra("6.1.1")
-val justifyVersion by extra("3.1.0")
-val kotestVersion by extra("6.2.1")
-val mysqlConnectorJavaVersion by extra("8.0.33")
-val postgresqlVersion by extra("42.7.12")
-val testcontainersVersion by extra("1.21.4")
+val joyVersion = "2.1.0"
+val junitVersion = "6.1.1"
+val justifyVersion = "3.1.0"
+val kotestVersion = "6.2.1"
+val mysqlConnectorJavaVersion = "8.0.33"
+val postgresqlVersion = "42.7.12"
+val testcontainersVersion = "1.21.4"
 
 f1db {
     sourceDir.set(layout.projectDirectory.dir("src/data"))
