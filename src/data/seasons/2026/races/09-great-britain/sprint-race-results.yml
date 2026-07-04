@@ -167,20 +167,6 @@
   points:
   gridPosition: 14
 - position: 13
-  driverNumber: 27
-  driverId: nico-hulkenberg
-  constructorId: audi
-  engineManufacturerId: audi
-  tyreManufacturerId: pirelli
-  laps: 17
-  time: "26:53.809"
-  timePenalty:
-  gap: "+41.680"
-  interval: "+0.654"
-  reasonRetired:
-  points:
-  gridPosition: 13
-- position: 14
   driverNumber: 5
   driverId: gabriel-bortoleto
   constructorId: audi
@@ -190,11 +176,11 @@
   time: "26:54.628"
   timePenalty:
   gap: "+42.499"
-  interval: "+0.819"
+  interval: "+1.473"
   reasonRetired:
   points:
   gridPosition: 12
-- position: 15
+- position: 14
   driverNumber: 87
   driverId: oliver-bearman
   constructorId: haas
@@ -208,6 +194,20 @@
   reasonRetired:
   points:
   gridPosition: 16
+- position: 15
+  driverNumber: 27
+  driverId: nico-hulkenberg
+  constructorId: audi
+  engineManufacturerId: audi
+  tyreManufacturerId: pirelli
+  laps: 17
+  time: "26:58.809"
+  timePenalty: "5.000"
+  gap: "+46.680"
+  interval: "+0.896"
+  reasonRetired:
+  points:
+  gridPosition: 13
 - position: 16
   driverNumber: 31
   driverId: esteban-ocon
@@ -218,7 +218,7 @@
   time: "27:01.939"
   timePenalty:
   gap: "+49.810"
-  interval: "+4.026"
+  interval: "+3.130"
   reasonRetired:
   points:
   gridPosition: 17
@@ -300,7 +300,7 @@
   tyreManufacturerId: pirelli
   laps: 16
   time:
-  timePenalty:
+  timePenalty: "10.000"
   gap: "+1 lap"
   interval:
   reasonRetired:
