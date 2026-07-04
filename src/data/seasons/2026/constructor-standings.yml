@@ -1,19 +1,19 @@
 - position: 1
   constructorId: mercedes
   engineManufacturerId: mercedes
-  points: 302
+  points: 315
 - position: 2
   constructorId: ferrari
   engineManufacturerId: ferrari
-  points: 204
+  points: 215
 - position: 3
   constructorId: mclaren
   engineManufacturerId: mercedes
-  points: 159
+  points: 167
 - position: 4
   constructorId: red-bull
   engineManufacturerId: red-bull-ford
-  points: 115
+  points: 118
 - position: 5
   constructorId: alpine
   engineManufacturerId: mercedes

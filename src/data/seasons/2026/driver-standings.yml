@@ -7,15 +7,15 @@
 - position: 3
   driverId: lewis-hamilton
   points: 125
-- position: 4
-  driverId: oscar-piastri
-  points: 80
 - position: 5
   driverId: lando-norris
   points: 79
 - position: 6
   driverId: charles-leclerc
   points: 79
+- position: 4
+  driverId: oscar-piastri
+  points: 80
 - position: 7
   driverId: max-verstappen
   points: 73
