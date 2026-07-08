@@ -11,7 +11,7 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  percentage: 22.4
+  percentage: 22.43
 - position: 3
   driverNumber: 11
   driverId: sergio-perez
@@ -25,11 +25,11 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  percentage: 7.6
+  percentage: 7.64
 - position: 5
   driverNumber: 1
   driverId: max-verstappen
   constructorId: red-bull
   engineManufacturerId: honda-rbpt
   tyreManufacturerId: pirelli
-  percentage: 6.5
+  percentage: 6.46
