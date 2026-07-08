@@ -11,21 +11,21 @@
   constructorId: mclaren
   engineManufacturerId: mercedes
   tyreManufacturerId: pirelli
-  percentage: 14.5
+  percentage: 14.54
 - position: 3
   driverNumber: 27
   driverId: nico-hulkenberg
   constructorId: kick-sauber
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  percentage: 10.6
+  percentage: 10.65
 - position: 4
   driverNumber: 16
   driverId: charles-leclerc
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  percentage: 9.6
+  percentage: 9.55
 - position: 5
   driverNumber: 4
   driverId: lando-norris
