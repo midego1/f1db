@@ -4,32 +4,32 @@
   constructorId: red-bull
   engineManufacturerId: honda-rbpt
   tyreManufacturerId: pirelli
-  percentage: 39.6
+  percentage: 39.59
 - position: 2
   driverNumber: 31
   driverId: esteban-ocon
   constructorId: alpine
   engineManufacturerId: renault
   tyreManufacturerId: pirelli
-  percentage: 11.1
+  percentage: 11.12
 - position: 3
   driverNumber: 43
   driverId: franco-colapinto
   constructorId: williams
   engineManufacturerId: mercedes
   tyreManufacturerId: pirelli
-  percentage: 6.7
+  percentage: 6.69
 - position: 4
   driverNumber: 10
   driverId: pierre-gasly
   constructorId: alpine
   engineManufacturerId: renault
   tyreManufacturerId: pirelli
-  percentage: 5.5
+  percentage: 5.46
 - position: 5
   driverNumber: 4
   driverId: lando-norris
   constructorId: mclaren
   engineManufacturerId: mercedes
   tyreManufacturerId: pirelli
-  percentage: 5.1
+  percentage: 5.08

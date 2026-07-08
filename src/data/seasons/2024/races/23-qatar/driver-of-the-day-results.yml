@@ -4,7 +4,7 @@
   constructorId: kick-sauber
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  percentage: 29.7
+  percentage: 29.66
 - position: 2
   driverNumber: 1
   driverId: max-verstappen
@@ -18,18 +18,18 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  percentage: 9.8
+  percentage: 9.77
 - position: 4
   driverNumber: 4
   driverId: lando-norris
   constructorId: mclaren
   engineManufacturerId: mercedes
   tyreManufacturerId: pirelli
-  percentage: 8.6
+  percentage: 8.59
 - position: 5
   driverNumber: 10
   driverId: pierre-gasly
   constructorId: alpine
   engineManufacturerId: renault
   tyreManufacturerId: pirelli
-  percentage: 7.4
+  percentage: 7.44
