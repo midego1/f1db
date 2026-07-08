@@ -4,21 +4,21 @@
   constructorId: aston-martin
   engineManufacturerId: mercedes
   tyreManufacturerId: pirelli
-  percentage: 16.3
+  percentage: 16.27
 - position: 2
   driverNumber: 31
   driverId: esteban-ocon
   constructorId: alpine
   engineManufacturerId: renault
   tyreManufacturerId: pirelli
-  percentage: 14.5
+  percentage: 14.46
 - position: 3
   driverNumber: 1
   driverId: max-verstappen
   constructorId: red-bull
   engineManufacturerId: rbpt
   tyreManufacturerId: pirelli
-  percentage: 13.2
+  percentage: 13.15
 - position: 4
   driverNumber: 6
   driverId: nicholas-latifi
@@ -32,4 +32,4 @@
   constructorId: mercedes
   engineManufacturerId: mercedes
   tyreManufacturerId: pirelli
-  percentage: 7.3
+  percentage: 7.34

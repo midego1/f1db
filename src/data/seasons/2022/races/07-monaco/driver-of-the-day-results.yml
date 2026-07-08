@@ -11,25 +11,25 @@
   constructorId: alphatauri
   engineManufacturerId: rbpt
   tyreManufacturerId: pirelli
-  percentage: 10.5
+  percentage: 10.51
 - position: 3
   driverNumber: 55
   driverId: carlos-sainz-jr
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  percentage: 9.9
+  percentage: 9.93
 - position: 4
   driverNumber: 16
   driverId: charles-leclerc
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  percentage: 8.8
+  percentage: 8.82
 - position: 5
   driverNumber: 14
   driverId: fernando-alonso
   constructorId: alpine
   engineManufacturerId: renault
   tyreManufacturerId: pirelli
-  percentage: 7.4
+  percentage: 7.36

@@ -4,7 +4,7 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  percentage: 26.8
+  percentage: 26.76
 - position: 2
   driverNumber: 1
   driverId: max-verstappen
@@ -18,18 +18,18 @@
   constructorId: mercedes
   engineManufacturerId: mercedes
   tyreManufacturerId: pirelli
-  percentage: 10.1
+  percentage: 10.08
 - position: 4
   driverNumber: 11
   driverId: sergio-perez
   constructorId: red-bull
   engineManufacturerId: rbpt
   tyreManufacturerId: pirelli
-  percentage: 9.5
+  percentage: 9.49
 - position: 5
   driverNumber: 20
   driverId: kevin-magnussen
   constructorId: haas
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  percentage: 7.5
+  percentage: 7.54
