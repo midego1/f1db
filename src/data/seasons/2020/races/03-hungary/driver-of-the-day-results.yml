@@ -18,18 +18,18 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  percentage: 12.8
+  percentage: 12.77
 - position: 4
   driverNumber: 77
   driverId: valtteri-bottas
   constructorId: mercedes
   engineManufacturerId: mercedes
   tyreManufacturerId: pirelli
-  percentage: 8.2
+  percentage: 8.22
 - position: 5
   driverNumber: 18
   driverId: lance-stroll
   constructorId: racing-point
   engineManufacturerId: bwt-mercedes
   tyreManufacturerId: pirelli
-  percentage: 8.1
+  percentage: 8.16

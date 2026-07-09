@@ -4,21 +4,21 @@
   constructorId: racing-point
   engineManufacturerId: bwt-mercedes
   tyreManufacturerId: pirelli
-  percentage: 34.7
+  percentage: 34.65
 - position: 2
   driverNumber: 44
   driverId: lewis-hamilton
   constructorId: mercedes
   engineManufacturerId: mercedes
   tyreManufacturerId: pirelli
-  percentage: 10.9
+  percentage: 10.85
 - position: 3
   driverNumber: 33
   driverId: max-verstappen
   constructorId: red-bull
   engineManufacturerId: honda
   tyreManufacturerId: pirelli
-  percentage: 10.7
+  percentage: 10.72
 - position: 4
   driverNumber: 3
   driverId: daniel-ricciardo
@@ -32,4 +32,4 @@
   constructorId: mclaren
   engineManufacturerId: renault
   tyreManufacturerId: pirelli
-  percentage: 5.6
+  percentage: 5.95
