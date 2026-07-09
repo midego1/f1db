@@ -4,7 +4,7 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  percentage: 17.6
+  percentage: 17.65
 - position: 2
   driverNumber: 77
   driverId: valtteri-bottas
@@ -18,18 +18,18 @@
   constructorId: red-bull
   engineManufacturerId: honda
   tyreManufacturerId: pirelli
-  percentage: 15.4
+  percentage: 15.48
 - position: 4
   driverNumber: 7
   driverId: kimi-raikkonen
   constructorId: alfa-romeo
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  percentage: 8.3
+  percentage: 8.36
 - position: 5
   driverNumber: 44
   driverId: lewis-hamilton
   constructorId: mercedes
   engineManufacturerId: mercedes
   tyreManufacturerId: pirelli
-  percentage: 7
+  percentage: 7.02

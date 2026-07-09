@@ -4,14 +4,14 @@
   constructorId: red-bull
   engineManufacturerId: honda
   tyreManufacturerId: pirelli
-  percentage: 20.9
+  percentage: 20.94
 - position: 2
   driverNumber: 5
   driverId: sebastian-vettel
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  percentage: 17.4
+  percentage: 17.42
 - position: 3
   driverNumber: 26
   driverId: daniil-kvyat
@@ -25,11 +25,11 @@
   constructorId: alfa-romeo
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  percentage: 6.9
+  percentage: 6.85
 - position: 5
   driverNumber: 23
   driverId: alexander-albon
   constructorId: toro-rosso
   engineManufacturerId: honda
   tyreManufacturerId: pirelli
-  percentage: 6.8
+  percentage: 6.84

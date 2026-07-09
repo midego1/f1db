@@ -4,14 +4,14 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  percentage: 20.6
+  percentage: 20.63
 - position: 2
   driverNumber: 33
   driverId: max-verstappen
   constructorId: red-bull
   engineManufacturerId: honda
   tyreManufacturerId: pirelli
-  percentage: 18.8
+  percentage: 18.77
 - position: 3
   driverNumber: 44
   driverId: lewis-hamilton
@@ -25,7 +25,7 @@
   constructorId: mclaren
   engineManufacturerId: renault
   tyreManufacturerId: pirelli
-  percentage: 9.5
+  percentage: 9.52
 - position: 5
   driverNumber: 5
   driverId: sebastian-vettel

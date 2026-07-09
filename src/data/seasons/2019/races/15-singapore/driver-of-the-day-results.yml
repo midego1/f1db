@@ -4,7 +4,7 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  percentage: 21.2
+  percentage: 21.95
 - position: 2
   driverNumber: 16
   driverId: charles-leclerc
@@ -18,7 +18,7 @@
   constructorId: red-bull
   engineManufacturerId: honda
   tyreManufacturerId: pirelli
-  percentage: 11
+  percentage: 10.95
 - position: 4
   driverNumber: 3
   driverId: daniel-ricciardo
@@ -32,4 +32,4 @@
   constructorId: mclaren
   engineManufacturerId: renault
   tyreManufacturerId: pirelli
-  percentage: 8
+  percentage: 7.95
