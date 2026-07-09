@@ -4,7 +4,7 @@
   constructorId: alpine
   engineManufacturerId: renault
   tyreManufacturerId: pirelli
-  percentage: 28.2
+  percentage: 28.15
 - position: 2
   driverNumber: 31
   driverId: esteban-ocon
@@ -25,11 +25,11 @@
   constructorId: aston-martin
   engineManufacturerId: mercedes
   tyreManufacturerId: pirelli
-  percentage: 9.7
+  percentage: 9.74
 - position: 5
   driverNumber: 55
   driverId: carlos-sainz-jr
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  percentage: 5
+  percentage: 4.96

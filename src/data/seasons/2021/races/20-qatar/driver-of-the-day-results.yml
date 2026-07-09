@@ -4,14 +4,14 @@
   constructorId: alpine
   engineManufacturerId: renault
   tyreManufacturerId: pirelli
-  percentage: 28.6
+  percentage: 28.62
 - position: 2
   driverNumber: 11
   driverId: sergio-perez
   constructorId: red-bull
   engineManufacturerId: honda
   tyreManufacturerId: pirelli
-  percentage: 16.6
+  percentage: 16.59
 - position: 3
   driverNumber: 44
   driverId: lewis-hamilton
@@ -25,11 +25,11 @@
   constructorId: red-bull
   engineManufacturerId: honda
   tyreManufacturerId: pirelli
-  percentage: 13.5
+  percentage: 13.52
 - position: 5
   driverNumber: 4
   driverId: lando-norris
   constructorId: mclaren
   engineManufacturerId: mercedes
   tyreManufacturerId: pirelli
-  percentage: 5.6
+  percentage: 5.75
