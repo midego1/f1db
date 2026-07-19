@@ -261,7 +261,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired: ERS
+  reasonRetired: Electrical
   points:
   gridPosition: 22
 - position: DNF
